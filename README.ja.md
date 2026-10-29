@@ -1,16 +1,28 @@
 <div align="center">
-  <img src="https://capywatcher.com/logo.png" width="100" height="100" alt="CapyWatcher のロゴ">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/capywatcher/capywatcher/main/images/logo-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/capywatcher/capywatcher/main/images/logo-light.png">
+    <img src="https://raw.githubusercontent.com/capywatcher/capywatcher/main/images/logo-light.png" width="100" height="100" alt="CapyWatcher のロゴ">
+  </picture>
+
+  <h1>CapyWatcher: ファイルを作成したプログラムがわかる</h1>
+
+  <p><strong>Windows で新しいファイルを右クリックすると、作成したプログラムと、そのプログラムを起動した AI エージェントがわかります。</strong></p>
+
+  <p><a href="https://capywatcher.com/ja/download">無料試用版をダウンロード</a> &nbsp;·&nbsp; <a href="https://capywatcher.com/ja/pricing">価格を見る</a> &nbsp;·&nbsp; <a href="https://capywatcher.com/ja/release-notes">リリース ノートを読む</a></p>
+
+  <p>Windows 11、または Windows 10 バージョン 1803 以降の 64 ビット版 (x64)。7 日間無料で、カードもメール アドレスも不要です。</p>
+
+  <p>
+    <a href="https://x.com/CapyWatcherApp"><img src="https://img.shields.io/badge/X-CapyWatcherApp-000000?style=flat-square&logo=x&logoColor=white" alt="X で @CapyWatcherApp をフォロー"></a>
+    &nbsp;
+    <a href="https://capywatcher.com/ja/release-notes/rss.xml"><img src="https://img.shields.io/badge/RSS-capywatcher.com-FF7A1A?style=flat-square&logo=rss&logoColor=white" alt="リリース ノートの RSS フィード"></a>
+    &nbsp;
+    <a href="mailto:support@capywatcher.com"><img src="https://img.shields.io/badge/Email-support%40capywatcher.com-30363D?style=flat-square&logo=maildotru&logoColor=white" alt="support@capywatcher.com にメール"></a>
+  </p>
+
+  <p><a href="README.md">English</a> &nbsp;·&nbsp; <a href="README.de.md">Deutsch</a> &nbsp;·&nbsp; <a href="README.es.md">Español</a> &nbsp;·&nbsp; <a href="README.fr.md">Français</a> &nbsp;·&nbsp; <a href="README.it.md">Italiano</a> &nbsp;·&nbsp; <a href="README.pl.md">Polski</a> &nbsp;·&nbsp; <a href="README.pt-BR.md">Português (Brasil)</a> &nbsp;·&nbsp; 日本語</p>
 </div>
-
-# CapyWatcher: ファイルを作成したプログラムがわかる
-
-**Windows で新しいファイルを右クリックすると、作成したプログラムと、そのプログラムを起動した AI エージェントがわかります。**
-
-[無料試用版をダウンロード](https://capywatcher.com/ja/download) · [価格を見る](https://capywatcher.com/ja/pricing) · [リリース ノートを読む](https://capywatcher.com/ja/release-notes)
-
-Windows 11、または Windows 10 バージョン 1803 以降の 64 ビット版 (x64)。7 日間無料で、カードもメール アドレスも不要です。
-
-[English](README.md) · [Deutsch](README.de.md) · [Español](README.es.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Polski](README.pl.md) · [Português (Brasil)](README.pt-BR.md) · 日本語
 
 ![このファイルを作ったのは: 右クリックの答えに、新しいファイルを作成したプログラム、ユーザー、時刻が表示されます。](images/ja/answer.png)
 

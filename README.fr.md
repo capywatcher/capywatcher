@@ -1,16 +1,28 @@
 <div align="center">
-  <img src="https://capywatcher.com/logo.png" width="100" height="100" alt="Logo de CapyWatcher">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/capywatcher/capywatcher/main/images/logo-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/capywatcher/capywatcher/main/images/logo-light.png">
+    <img src="https://raw.githubusercontent.com/capywatcher/capywatcher/main/images/logo-light.png" width="100" height="100" alt="Logo de CapyWatcher">
+  </picture>
+
+  <h1>CapyWatcher : qui a créé ce fichier ?</h1>
+
+  <p><strong>Faites un clic droit sur un nouveau fichier dans Windows et voyez quel programme l’a créé, et quel agent IA a lancé ce programme.</strong></p>
+
+  <p><a href="https://capywatcher.com/fr/download">Télécharger l’essai gratuit</a> &nbsp;·&nbsp; <a href="https://capywatcher.com/fr/pricing">Voir les tarifs</a> &nbsp;·&nbsp; <a href="https://capywatcher.com/fr/release-notes">Lire les notes de version</a></p>
+
+  <p>Windows 11, ou Windows 10 version 1803 ou ultérieure, 64 bits (x64). Gratuit pendant 7 jours, sans carte ni e-mail.</p>
+
+  <p>
+    <a href="https://x.com/CapyWatcherApp"><img src="https://img.shields.io/badge/X-CapyWatcherApp-000000?style=flat-square&logo=x&logoColor=white" alt="Suivre @CapyWatcherApp sur X"></a>
+    &nbsp;
+    <a href="https://capywatcher.com/fr/release-notes/rss.xml"><img src="https://img.shields.io/badge/RSS-capywatcher.com-FF7A1A?style=flat-square&logo=rss&logoColor=white" alt="Flux RSS des notes de version"></a>
+    &nbsp;
+    <a href="mailto:support@capywatcher.com"><img src="https://img.shields.io/badge/Email-support%40capywatcher.com-30363D?style=flat-square&logo=maildotru&logoColor=white" alt="Écrire à support@capywatcher.com"></a>
+  </p>
+
+  <p><a href="README.md">English</a> &nbsp;·&nbsp; <a href="README.de.md">Deutsch</a> &nbsp;·&nbsp; <a href="README.es.md">Español</a> &nbsp;·&nbsp; Français &nbsp;·&nbsp; <a href="README.it.md">Italiano</a> &nbsp;·&nbsp; <a href="README.pl.md">Polski</a> &nbsp;·&nbsp; <a href="README.pt-BR.md">Português (Brasil)</a> &nbsp;·&nbsp; <a href="README.ja.md">日本語</a></p>
 </div>
-
-# CapyWatcher : qui a créé ce fichier ?
-
-**Faites un clic droit sur un nouveau fichier dans Windows et voyez quel programme l’a créé, et quel agent IA a lancé ce programme.**
-
-[Télécharger l’essai gratuit](https://capywatcher.com/fr/download) · [Voir les tarifs](https://capywatcher.com/fr/pricing) · [Lire les notes de version](https://capywatcher.com/fr/release-notes)
-
-Windows 11, ou Windows 10 version 1803 ou ultérieure, 64 bits (x64). Gratuit pendant 7 jours, sans carte ni e-mail.
-
-[English](README.md) · [Deutsch](README.de.md) · [Español](README.es.md) · Français · [Italiano](README.it.md) · [Polski](README.pl.md) · [Português (Brasil)](README.pt-BR.md) · [日本語](README.ja.md)
 
 ![Qui a créé ce fichier : la réponse au clic droit nomme le programme qui a créé un nouveau fichier, avec l’utilisateur et l’heure.](images/fr/answer.png)
 
