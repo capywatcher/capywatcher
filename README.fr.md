@@ -74,7 +74,7 @@ Thèmes clair et sombre, et contraste élevé de Windows. Chaque vue se contrôl
 
 ### Léger pour votre ordinateur
 
-Le service en arrière-plan utilise moins de 20 Mo de mémoire et moins de 1 % du processeur pendant qu’il enregistre les nouveaux fichiers.
+Le service en arrière-plan utilise environ 7 Mo de mémoire, et l’application 41 Mo dans la zone de notification ou 52 Mo avec sa fenêtre ouverte. Le service reste proche de 0 % du processeur au repos et à environ 1 % même quand des milliers de fichiers sont écrits chaque seconde. Mesuré dans le Gestionnaire des tâches sous Windows 11 avec 12 cœurs.
 
 ### En 8 langues
 

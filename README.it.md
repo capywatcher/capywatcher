@@ -74,7 +74,7 @@ Temi chiaro e scuro, e contrasto elevato di Windows. Ogni vista si usa del tutto
 
 ### Leggera per il tuo computer
 
-Il servizio in background usa meno di 20 MB di memoria e meno dell’1 % della CPU mentre registra i nuovi file.
+Il servizio in background usa circa 7 MB di memoria, e l’app 41 MB nell’area di notifica o 52 MB con la finestra aperta. Il servizio resta vicino allo 0 % della CPU a riposo e intorno all’1 % anche quando vengono scritti migliaia di file al secondo. Misurato in Gestione attività su Windows 11 con 12 core.
 
 ### In 8 lingue
 

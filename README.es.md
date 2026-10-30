@@ -74,7 +74,7 @@ Temas claro y oscuro, y contraste alto de Windows. Cada vista se maneja por comp
 
 ### Ligero para tu equipo
 
-El servicio en segundo plano usa menos de 20 MB de memoria y menos del 1 % de CPU mientras registra archivos nuevos.
+El servicio en segundo plano usa unos 7 MB de memoria, y la aplicación 41 MB en el área de notificación o 52 MB con la ventana abierta. El servicio se mantiene cerca del 0 % de CPU en reposo y en torno al 1 % incluso cuando se escriben miles de archivos por segundo. Medido en el Administrador de tareas en Windows 11 con 12 núcleos.
 
 ### En 8 idiomas
 

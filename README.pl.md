@@ -74,7 +74,7 @@ Jasny i ciemny motyw oraz kontrast Windows. Każdy widok obsłużysz w całoś
 
 ### Lekka dla komputera
 
-Usługa w tle zużywa poniżej 20 MB pamięci i mniej niż 1 % CPU podczas zapisywania nowych plików.
+Usługa w tle zużywa około 7 MB pamięci, a aplikacja 41 MB w zasobniku lub 52 MB z otwartym oknem. W spoczynku usługa zużywa blisko 0 % CPU, a około 1 % nawet wtedy, gdy co sekundę zapisywane są tysiące plików. Zmierzono w Menedżerze zadań w Windows 11 na 12 rdzeniach.
 
 ### W 8 językach
 

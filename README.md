@@ -74,7 +74,7 @@ Light and dark themes, and Windows High Contrast. Every view works from the keyb
 
 ### Light on your computer
 
-The background service uses under 20 MB of memory and less than 1% CPU while it records new files.
+The background service uses about 7 MB of memory, and the app 41 MB hidden in the tray or 52 MB with its window open. The service stays close to 0% CPU at rest and about 1% even while thousands of files are written each second. Measured in Task Manager on Windows 11 with 12 cores.
 
 ### In 8 languages
 

@@ -74,7 +74,7 @@ Temas claro e escuro, e alto contraste do Windows. Todas as telas funcionam só 
 
 ### Leve para o seu computador
 
-O serviço em segundo plano usa menos de 20 MB de memória e menos de 1 % da CPU enquanto registra arquivos novos.
+O serviço em segundo plano usa cerca de 7 MB de memória, e o app 41 MB na área de notificação ou 52 MB com a janela aberta. O serviço fica perto de 0 % da CPU em repouso e em cerca de 1 % mesmo quando milhares de arquivos são gravados por segundo. Medido no Gerenciador de Tarefas no Windows 11 com 12 núcleos.
 
 ### Em 8 idiomas
 

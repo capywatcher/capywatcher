@@ -74,7 +74,7 @@ Helles und dunkles Design und Windows-Kontrastdesigns. Jede Ansicht lässt sich 
 
 ### Leicht für Ihren Computer
 
-Der Hintergrunddienst braucht unter 20 MB Arbeitsspeicher und weniger als 1 % CPU, während er neue Dateien aufzeichnet.
+Der Hintergrunddienst braucht etwa 7 MB Arbeitsspeicher, die App 41 MB im Infobereich oder 52 MB mit offenem Fenster. Der Dienst liegt im Ruhezustand nahe 0 % CPU und bei etwa 1 %, selbst wenn jede Sekunde Tausende Dateien geschrieben werden. Gemessen im Task-Manager unter Windows 11 mit 12 Kernen.
 
 ### In 8 Sprachen
 
