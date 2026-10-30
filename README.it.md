@@ -56,6 +56,10 @@ Seleziona più file, fai clic destro, e vedi il programma di ciascuno. Un downlo
 
 Scegli le cartelle da monitorare, su qualsiasi unità del tuo computer. Un’unità non collegata conserva la sua impostazione finché non torna.
 
+### Blocchi e avvisi di eliminazione
+
+Ogni cartella monitorata ha il suo lucchetto e la sua campanella, e puoi usare uno dei due o entrambi. Blocca una cartella monitorata, e niente potrà eliminare, spostare o rinominare i suoi file finché non la sblocchi. Un programma eseguito come amministratore può togliere il blocco. Attiva la campanella di una cartella monitorata, e una notifica di Windows dice quale programma ha eliminato file e quanti, con un pulsante per arrestarlo.
+
 ### Una cronologia sotto controllo
 
 Scegli per quanto tempo conservare la cronologia, quanto può crescere, cosa succede al limite e in quale cartella viene salvata. Eliminala tutta quando vuoi.
@@ -85,9 +89,9 @@ La cronologia resta sul tuo computer, e il servizio che controlla le cartelle no
 ## I limiti, in tutta onestà
 
 - Registra i nuovi file dal momento in cui lo installi, quindi non può dirti nulla dei file precedenti.
-- Registra i file creati o rinominati nelle cartelle monitorate, non le eliminazioni né le modifiche.
+- La Cronologia registra i file creati o rinominati nelle cartelle monitorate, non le eliminazioni né le modifiche.
 - Non funziona sulle unità di rete, solo sulle unità del tuo computer.
-- Registra quale programma ha creato un file. Non blocca niente.
+- Registra quale programma ha creato un file. Una cartella bloccata rifiuta eliminazioni, spostamenti e cambi di nome, non i nuovi file.
 
 ## Prezzo
 

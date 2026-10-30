@@ -56,6 +56,10 @@ Zaznacz kilka plików, kliknij prawym przyciskiem i zobacz program każdego z 
 
 Wybierz foldery do obserwowania, na dowolnym dysku w Twoim komputerze. Odłączony dysk zachowuje swoje ustawienia do czasu, aż znów go podłączysz.
 
+### Blokady i alerty o usuwaniu
+
+Każdy śledzony folder ma własną kłódkę i własny dzwonek. Możesz użyć jednego, drugiego albo obu naraz. Zablokuj śledzony folder, a nic nie będzie mogło usuwać, przenosić ani zmieniać nazw jego plików, dopóki go nie odblokujesz. Program uruchomiony jako administrator może zdjąć blokadę. Włącz dzwonek śledzonego folderu, a powiadomienie Windows powie, który program usunął pliki i ile, z przyciskiem, by go zatrzymać.
+
 ### Historia pod Twoją kontrolą
 
 Wybierz, jak długo przechowywać historię, jak duża może być, co się dzieje po osiągnięciu limitu i w którym folderze jest zapisana. Usuń ją całą, kiedy chcesz.
@@ -85,9 +89,9 @@ Historia zostaje na Twoim komputerze, a usługa, która obserwuje foldery, nie 
 ## Uczciwe ograniczenia
 
 - Zapisuje nowe pliki od chwili instalacji, więc nic nie powie o starszych.
-- Zapisuje pliki utworzone lub przemianowane w śledzonych folderach, nie usunięcia ani zmiany treści.
+- Historia zapisuje pliki utworzone lub przemianowane w śledzonych folderach, nie usunięcia ani zmiany treści.
 - Nie działa na dyskach sieciowych, tylko na dyskach w Twoim komputerze.
-- Zapisuje, który program utworzył plik. Niczego nie blokuje.
+- Zapisuje, który program utworzył plik. Zablokowany folder nie pozwala usuwać, przenosić ani zmieniać nazw plików, ale nowe pliki mogą w nim powstawać.
 
 ## Cena
 

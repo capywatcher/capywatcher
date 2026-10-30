@@ -56,6 +56,10 @@ Selecciona varios archivos, haz clic derecho y mira el programa de cada uno. Una
 
 Elige las carpetas que quieres supervisar, en cualquier unidad de tu equipo. Una unidad que no está conectada conserva su configuración hasta que vuelve.
 
+### Bloqueos y avisos de borrado
+
+Cada carpeta supervisada tiene su propio candado y su propia campana, y puedes usar uno de los dos o ambos. Bloquea una carpeta supervisada, y nada podrá borrar, mover ni cambiar el nombre de sus archivos hasta que la desbloquees. Un programa que se ejecute como administrador puede quitar el bloqueo. Activa la campana de una carpeta supervisada, y una notificación de Windows te dirá qué programa borró archivos y cuántos, con un botón para detenerlo.
+
 ### Un historial bajo tu control
 
 Elige cuánto tiempo se conserva el historial, cuánto puede crecer, qué pasa al llegar al límite y en qué carpeta se guarda. Bórralo entero cuando quieras.
@@ -85,9 +89,9 @@ El historial se queda en tu equipo, y el servicio que supervisa tus carpetas no 
 ## Los límites, con sinceridad
 
 - Registra los archivos nuevos desde que lo instalas, así que no puede decirte nada de los anteriores.
-- Registra los archivos creados o renombrados en las carpetas supervisadas, no los borrados ni las modificaciones.
+- El Historial registra los archivos creados o renombrados en las carpetas supervisadas, no los borrados ni las modificaciones.
 - No funciona en unidades de red, solo en las unidades de tu equipo.
-- Registra qué programa creó un archivo. No bloquea nada.
+- Registra qué programa creó un archivo. Una carpeta bloqueada no deja borrar, mover ni cambiar de nombre sus archivos, pero sí crear archivos nuevos.
 
 ## Precio
 

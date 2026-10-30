@@ -56,6 +56,10 @@ Select several files, right-click, and see each one's program. A download rename
 
 Choose the folders to track, on any drive in your computer. A drive that isn't connected keeps its setting until it's back.
 
+### Locks and delete alerts
+
+Each tracked folder has its own lock and its own bell, and you can use either one or both. Lock a tracked folder, and nothing can delete, move or rename its files until you unlock it. A program running as administrator can remove the lock. Turn on a tracked folder’s bell, and a Windows notification says which program deleted files and how many, with a button to stop it.
+
 ### A history you control
 
 Choose how long history is kept, how big it can get, what happens at the limit and which folder it's saved in. Delete it all whenever you like.
@@ -85,9 +89,9 @@ The history stays on your computer, and the service that watches your folders ha
 ## The honest limits
 
 - It records new files from the moment you install it, so it can't tell you about older ones.
-- It records files created or renamed in the folders you track, not deletions or edits.
+- History records files created or renamed in the folders you track, not deletions or edits.
 - It doesn't work on network drives, only on drives in your computer.
-- It records which program created a file. It doesn't block anything.
+- It records which program created a file. A locked folder refuses deletes, moves and renames, not new files.
 
 ## Price
 

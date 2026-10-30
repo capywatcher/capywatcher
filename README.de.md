@@ -56,6 +56,10 @@ Markieren Sie mehrere Dateien, klicken Sie mit der rechten Maustaste und sehen S
 
 Wählen Sie die Ordner aus, die überwacht werden, auf jedem Laufwerk in Ihrem Computer. Ein nicht verbundenes Laufwerk behält seine Einstellung, bis es wieder da ist.
 
+### Sperren und Löschwarnungen
+
+Jeder überwachte Ordner hat ein eigenes Schloss und eine eigene Glocke, und Sie können eines davon oder beides nutzen. Sperren Sie einen überwachten Ordner, dann kann nichts seine Dateien löschen, verschieben oder umbenennen, bis Sie ihn entsperren. Ein Programm mit Administratorrechten kann die Sperre aufheben. Schalten Sie die Glocke eines überwachten Ordners ein, dann sagt eine Windows-Benachrichtigung, welches Programm Dateien gelöscht hat und wie viele, mit einer Schaltfläche, um es zu beenden.
+
 ### Ein Verlauf unter Ihrer Kontrolle
 
 Legen Sie fest, wie lange der Verlauf aufbewahrt wird, wie groß er werden darf, was am Limit passiert und in welchem Ordner er liegt. Löschen Sie ihn ganz, wann immer Sie wollen.
@@ -85,9 +89,9 @@ Der Verlauf bleibt auf Ihrem Computer, und der Dienst, der Ihre Ordner überwach
 ## Ehrliche Grenzen
 
 - CapyWatcher zeichnet neue Dateien ab der Installation auf und kann deshalb nichts über ältere sagen.
-- Es zeichnet Dateien auf, die in überwachten Ordnern erstellt oder umbenannt werden, keine Löschungen oder Änderungen.
+- Der Verlauf zeichnet Dateien auf, die in überwachten Ordnern erstellt oder umbenannt werden, keine Löschungen oder Änderungen.
 - Es funktioniert nicht auf Netzlaufwerken, nur auf Laufwerken in Ihrem Computer.
-- Es zeichnet auf, welches Programm eine Datei erstellt hat. Es blockiert nichts.
+- Es zeichnet auf, welches Programm eine Datei erstellt hat. Ein gesperrter Ordner verweigert Löschen, Verschieben und Umbenennen, aber keine neuen Dateien.
 
 ## Preis
 

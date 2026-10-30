@@ -56,6 +56,10 @@ Selecione vários arquivos, clique com o botão direito e veja o programa de cad
 
 Escolha as pastas para monitorar, em qualquer unidade do seu computador. Uma unidade desconectada mantém a configuração até voltar.
 
+### Bloqueios e alertas de exclusão
+
+Cada pasta monitorada tem o próprio cadeado e o próprio sino, e você pode usar um dos dois ou ambos. Bloqueie uma pasta monitorada, e nada poderá excluir, mover ou renomear os arquivos dela até você desbloqueá-la. Um programa executado como administrador pode remover o bloqueio. Ative o sino de uma pasta monitorada, e uma notificação do Windows diz qual programa excluiu arquivos e quantos, com um botão para pará-lo.
+
 ### Um histórico sob controle
 
 Escolha por quanto tempo o histórico fica guardado, quanto ele pode crescer, o que acontece no limite e em qual pasta ele é salvo. Apague tudo quando quiser.
@@ -85,9 +89,9 @@ O histórico fica no seu computador, e o serviço que monitora suas pastas não 
 ## Os limites, com honestidade
 
 - Ele registra arquivos novos a partir da instalação, então não sabe nada sobre os anteriores.
-- Ele registra arquivos criados ou renomeados nas pastas monitoradas, não exclusões nem edições.
+- O Histórico registra arquivos criados ou renomeados nas pastas monitoradas, não exclusões nem edições.
 - Não funciona em unidades de rede, só nas unidades do seu computador.
-- Ele registra qual programa criou um arquivo. Não bloqueia nada.
+- Ele registra qual programa criou um arquivo. Uma pasta bloqueada recusa exclusões, movimentações e mudanças de nome, não arquivos novos.
 
 ## Preço
 

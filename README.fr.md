@@ -56,6 +56,10 @@ Sélectionnez plusieurs fichiers, faites un clic droit, et voyez le programme de
 
 Choisissez les dossiers à surveiller, sur n’importe quel lecteur de votre ordinateur. Un lecteur non connecté garde son réglage jusqu’à son retour.
 
+### Verrous et alertes de suppression
+
+Chaque dossier suivi a son propre cadenas et sa propre cloche, et vous pouvez utiliser l’un des deux ou les deux. Verrouillez un dossier suivi, et rien ne peut supprimer, déplacer ou renommer ses fichiers tant que vous ne l’avez pas déverrouillé. Un programme exécuté en tant qu’administrateur peut retirer le verrou. Activez la cloche d’un dossier suivi, et une notification Windows indique quel programme a supprimé des fichiers et combien, avec un bouton pour l’arrêter.
+
 ### Un historique sous contrôle
 
 Choisissez combien de temps l’historique est conservé, sa taille maximale, ce qui se passe à la limite et le dossier où il est enregistré. Supprimez-le en entier quand vous voulez.
@@ -85,9 +89,9 @@ L’historique reste sur votre ordinateur, et le service qui surveille vos dossi
 ## Les limites, en toute franchise
 
 - Il enregistre les nouveaux fichiers à partir de son installation, il ne peut donc rien dire des fichiers plus anciens.
-- Il enregistre les fichiers créés ou renommés dans les dossiers suivis, pas les suppressions ni les modifications.
+- L’Historique enregistre les fichiers créés ou renommés dans les dossiers suivis, pas les suppressions ni les modifications.
 - Il ne fonctionne pas sur les lecteurs réseau, seulement sur les lecteurs de votre ordinateur.
-- Il enregistre quel programme a créé un fichier. Il ne bloque rien.
+- Il enregistre quel programme a créé un fichier. Un dossier verrouillé refuse les suppressions, les déplacements et les changements de nom, pas les nouveaux fichiers.
 
 ## Prix
 
