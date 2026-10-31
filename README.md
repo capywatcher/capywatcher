@@ -58,7 +58,7 @@ Choose the folders to track, on any drive in your computer. A drive that isn't c
 
 ### Locks and delete alerts
 
-Each tracked folder has its own lock and its own bell, and you can use either one or both. Lock a tracked folder, and nothing can delete, move or rename its files until you unlock it. A program running as administrator can remove the lock. Turn on a tracked folder’s bell, and a Windows notification says which program deleted files and how many, with a button to stop it.
+Each tracked folder has its own lock and its own bell, and you can use either one or both. Lock a tracked folder, and nothing can delete, move or rename its files until you unlock it. A program running as administrator can remove the lock, and CapyWatcher puts it back within 2 seconds and tells you. Turn on a tracked folder’s bell, and a Windows notification says which program deleted files and how many, with a button to stop it.
 
 ### A history you control
 
@@ -74,7 +74,7 @@ Light and dark themes, and Windows High Contrast. Every view works from the keyb
 
 ### Light on your computer
 
-The background service uses about 7 MB of memory, and the app 41 MB hidden in the tray or 52 MB with its window open. The service stays close to 0% CPU at rest and about 1% even while thousands of files are written each second. Measured in Task Manager on Windows 11 with 12 cores.
+The background service uses about 8 MB of memory. The app uses about 4 MB and almost no CPU hidden in the tray, 23 MB minimized and 50 to 90 MB with its window open. The service stays close to 0% CPU at rest and about 1% even while thousands of files are written each second. Measured in Task Manager on Windows 11 with 12 cores.
 
 ### In 8 languages
 

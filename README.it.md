@@ -58,7 +58,7 @@ Scegli le cartelle da monitorare, su qualsiasi unità del tuo computer. Un’uni
 
 ### Blocchi e avvisi di eliminazione
 
-Ogni cartella monitorata ha il suo lucchetto e la sua campanella, e puoi usare uno dei due o entrambi. Blocca una cartella monitorata, e niente potrà eliminare, spostare o rinominare i suoi file finché non la sblocchi. Un programma eseguito come amministratore può togliere il blocco. Attiva la campanella di una cartella monitorata, e una notifica di Windows dice quale programma ha eliminato file e quanti, con un pulsante per arrestarlo.
+Ogni cartella monitorata ha il suo lucchetto e la sua campanella, e puoi usare uno dei due o entrambi. Blocca una cartella monitorata, e niente potrà eliminare, spostare o rinominare i suoi file finché non la sblocchi. Un programma eseguito come amministratore può togliere il blocco, e CapyWatcher lo rimette entro 2 secondi e te lo dice. Attiva la campanella di una cartella monitorata, e una notifica di Windows dice quale programma ha eliminato file e quanti, con un pulsante per arrestarlo.
 
 ### Una cronologia sotto controllo
 
@@ -74,7 +74,7 @@ Temi chiaro e scuro, e contrasto elevato di Windows. Ogni vista si usa del tutto
 
 ### Leggera per il tuo computer
 
-Il servizio in background usa circa 7 MB di memoria, e l’app 41 MB nell’area di notifica o 52 MB con la finestra aperta. Il servizio resta vicino allo 0 % della CPU a riposo e intorno all’1 % anche quando vengono scritti migliaia di file al secondo. Misurato in Gestione attività su Windows 11 con 12 core.
+Il servizio in background usa circa 8 MB di memoria. L’app usa circa 4 MB e quasi niente CPU nell’area di notifica, 23 MB ridotta a icona e da 50 a 90 MB con la finestra aperta. Il servizio resta vicino allo 0 % della CPU a riposo e intorno all’1 % anche quando vengono scritti migliaia di file al secondo. Misurato in Gestione attività su Windows 11 con 12 core.
 
 ### In 8 lingue
 

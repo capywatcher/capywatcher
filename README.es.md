@@ -58,7 +58,7 @@ Elige las carpetas que quieres supervisar, en cualquier unidad de tu equipo. Una
 
 ### Bloqueos y avisos de borrado
 
-Cada carpeta supervisada tiene su propio candado y su propia campana, y puedes usar uno de los dos o ambos. Bloquea una carpeta supervisada, y nada podrá borrar, mover ni cambiar el nombre de sus archivos hasta que la desbloquees. Un programa que se ejecute como administrador puede quitar el bloqueo. Activa la campana de una carpeta supervisada, y una notificación de Windows te dirá qué programa borró archivos y cuántos, con un botón para detenerlo.
+Cada carpeta supervisada tiene su propio candado y su propia campana, y puedes usar uno de los dos o ambos. Bloquea una carpeta supervisada, y nada podrá borrar, mover ni cambiar el nombre de sus archivos hasta que la desbloquees. Un programa que se ejecute como administrador puede quitar el bloqueo, y CapyWatcher lo vuelve a poner en menos de 2 segundos y te avisa. Activa la campana de una carpeta supervisada, y una notificación de Windows te dirá qué programa borró archivos y cuántos, con un botón para detenerlo.
 
 ### Un historial bajo tu control
 
@@ -74,7 +74,7 @@ Temas claro y oscuro, y contraste alto de Windows. Cada vista se maneja por comp
 
 ### Ligero para tu equipo
 
-El servicio en segundo plano usa unos 7 MB de memoria, y la aplicación 41 MB en el área de notificación o 52 MB con la ventana abierta. El servicio se mantiene cerca del 0 % de CPU en reposo y en torno al 1 % incluso cuando se escriben miles de archivos por segundo. Medido en el Administrador de tareas en Windows 11 con 12 núcleos.
+El servicio en segundo plano usa unos 8 MB de memoria. La aplicación usa unos 4 MB y casi nada de CPU en el área de notificación, 23 MB minimizada y de 50 a 90 MB con la ventana abierta. El servicio se mantiene cerca del 0 % de CPU en reposo y en torno al 1 % incluso cuando se escriben miles de archivos por segundo. Medido en el Administrador de tareas en Windows 11 con 12 núcleos.
 
 ### En 8 idiomas
 

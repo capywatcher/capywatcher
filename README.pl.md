@@ -58,7 +58,7 @@ Wybierz foldery do obserwowania, na dowolnym dysku w Twoim komputerze. Odłącz
 
 ### Blokady i alerty o usuwaniu
 
-Każdy śledzony folder ma własną kłódkę i własny dzwonek. Możesz użyć jednego, drugiego albo obu naraz. Zablokuj śledzony folder, a nic nie będzie mogło usuwać, przenosić ani zmieniać nazw jego plików, dopóki go nie odblokujesz. Program uruchomiony jako administrator może zdjąć blokadę. Włącz dzwonek śledzonego folderu, a powiadomienie Windows powie, który program usunął pliki i ile, z przyciskiem, by go zatrzymać.
+Każdy śledzony folder ma własną kłódkę i własny dzwonek. Możesz użyć jednego, drugiego albo obu naraz. Zablokuj śledzony folder, a nic nie będzie mogło usuwać, przenosić ani zmieniać nazw jego plików, dopóki go nie odblokujesz. Program uruchomiony jako administrator może zdjąć blokadę, a CapyWatcher w ciągu 2 sekund zakłada ją z powrotem i informuje Cię o tym. Włącz dzwonek śledzonego folderu, a powiadomienie Windows powie, który program usunął pliki i ile, z przyciskiem, by go zatrzymać.
 
 ### Historia pod Twoją kontrolą
 
@@ -74,7 +74,7 @@ Jasny i ciemny motyw oraz kontrast Windows. Każdy widok obsłużysz w całoś
 
 ### Lekka dla komputera
 
-Usługa w tle zużywa około 7 MB pamięci, a aplikacja 41 MB w zasobniku lub 52 MB z otwartym oknem. W spoczynku usługa zużywa blisko 0 % CPU, a około 1 % nawet wtedy, gdy co sekundę zapisywane są tysiące plików. Zmierzono w Menedżerze zadań w Windows 11 na 12 rdzeniach.
+Usługa w tle zużywa około 8 MB pamięci. Aplikacja w zasobniku zużywa około 4 MB i prawie nie używa CPU, po zminimalizowaniu 23 MB, a z otwartym oknem od 50 do 90 MB. W spoczynku usługa zużywa blisko 0 % CPU, a około 1 % nawet wtedy, gdy co sekundę zapisywane są tysiące plików. Zmierzono w Menedżerze zadań w Windows 11 na 12 rdzeniach.
 
 ### W 8 językach
 

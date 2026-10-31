@@ -58,7 +58,7 @@ Escolha as pastas para monitorar, em qualquer unidade do seu computador. Uma uni
 
 ### Bloqueios e alertas de exclusão
 
-Cada pasta monitorada tem o próprio cadeado e o próprio sino, e você pode usar um dos dois ou ambos. Bloqueie uma pasta monitorada, e nada poderá excluir, mover ou renomear os arquivos dela até você desbloqueá-la. Um programa executado como administrador pode remover o bloqueio. Ative o sino de uma pasta monitorada, e uma notificação do Windows diz qual programa excluiu arquivos e quantos, com um botão para pará-lo.
+Cada pasta monitorada tem o próprio cadeado e o próprio sino, e você pode usar um dos dois ou ambos. Bloqueie uma pasta monitorada, e nada poderá excluir, mover ou renomear os arquivos dela até você desbloqueá-la. Um programa executado como administrador pode remover o bloqueio, e o CapyWatcher o recoloca em até 2 segundos e avisa você. Ative o sino de uma pasta monitorada, e uma notificação do Windows diz qual programa excluiu arquivos e quantos, com um botão para pará-lo.
 
 ### Um histórico sob controle
 
@@ -74,7 +74,7 @@ Temas claro e escuro, e alto contraste do Windows. Todas as telas funcionam só 
 
 ### Leve para o seu computador
 
-O serviço em segundo plano usa cerca de 7 MB de memória, e o app 41 MB na área de notificação ou 52 MB com a janela aberta. O serviço fica perto de 0 % da CPU em repouso e em cerca de 1 % mesmo quando milhares de arquivos são gravados por segundo. Medido no Gerenciador de Tarefas no Windows 11 com 12 núcleos.
+O serviço em segundo plano usa cerca de 8 MB de memória. O app usa cerca de 4 MB e quase nada de CPU na área de notificação, 23 MB minimizado e de 50 a 90 MB com a janela aberta. O serviço fica perto de 0 % da CPU em repouso e em cerca de 1 % mesmo quando milhares de arquivos são gravados por segundo. Medido no Gerenciador de Tarefas no Windows 11 com 12 núcleos.
 
 ### Em 8 idiomas
 

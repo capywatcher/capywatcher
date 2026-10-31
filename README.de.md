@@ -58,7 +58,7 @@ Wählen Sie die Ordner aus, die überwacht werden, auf jedem Laufwerk in Ihrem C
 
 ### Sperren und Löschwarnungen
 
-Jeder überwachte Ordner hat ein eigenes Schloss und eine eigene Glocke, und Sie können eines davon oder beides nutzen. Sperren Sie einen überwachten Ordner, dann kann nichts seine Dateien löschen, verschieben oder umbenennen, bis Sie ihn entsperren. Ein Programm mit Administratorrechten kann die Sperre aufheben. Schalten Sie die Glocke eines überwachten Ordners ein, dann sagt eine Windows-Benachrichtigung, welches Programm Dateien gelöscht hat und wie viele, mit einer Schaltfläche, um es zu beenden.
+Jeder überwachte Ordner hat ein eigenes Schloss und eine eigene Glocke, und Sie können eines davon oder beides nutzen. Sperren Sie einen überwachten Ordner, dann kann nichts seine Dateien löschen, verschieben oder umbenennen, bis Sie ihn entsperren. Ein Programm mit Administratorrechten kann die Sperre aufheben, und CapyWatcher setzt sie innerhalb von 2 Sekunden wieder und sagt es Ihnen. Schalten Sie die Glocke eines überwachten Ordners ein, dann sagt eine Windows-Benachrichtigung, welches Programm Dateien gelöscht hat und wie viele, mit einer Schaltfläche, um es zu beenden.
 
 ### Ein Verlauf unter Ihrer Kontrolle
 
@@ -74,7 +74,7 @@ Helles und dunkles Design und Windows-Kontrastdesigns. Jede Ansicht lässt sich 
 
 ### Leicht für Ihren Computer
 
-Der Hintergrunddienst braucht etwa 7 MB Arbeitsspeicher, die App 41 MB im Infobereich oder 52 MB mit offenem Fenster. Der Dienst liegt im Ruhezustand nahe 0 % CPU und bei etwa 1 %, selbst wenn jede Sekunde Tausende Dateien geschrieben werden. Gemessen im Task-Manager unter Windows 11 mit 12 Kernen.
+Der Hintergrunddienst braucht etwa 8 MB Arbeitsspeicher. Die App braucht im Infobereich etwa 4 MB und fast keine CPU, minimiert 23 MB und mit offenem Fenster 50 bis 90 MB. Der Dienst liegt im Ruhezustand nahe 0 % CPU und bei etwa 1 %, selbst wenn jede Sekunde Tausende Dateien geschrieben werden. Gemessen im Task-Manager unter Windows 11 mit 12 Kernen.
 
 ### In 8 Sprachen
 

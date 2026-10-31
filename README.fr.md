@@ -58,7 +58,7 @@ Choisissez les dossiers à surveiller, sur n’importe quel lecteur de votre ord
 
 ### Verrous et alertes de suppression
 
-Chaque dossier suivi a son propre cadenas et sa propre cloche, et vous pouvez utiliser l’un des deux ou les deux. Verrouillez un dossier suivi, et rien ne peut supprimer, déplacer ou renommer ses fichiers tant que vous ne l’avez pas déverrouillé. Un programme exécuté en tant qu’administrateur peut retirer le verrou. Activez la cloche d’un dossier suivi, et une notification Windows indique quel programme a supprimé des fichiers et combien, avec un bouton pour l’arrêter.
+Chaque dossier suivi a son propre cadenas et sa propre cloche, et vous pouvez utiliser l’un des deux ou les deux. Verrouillez un dossier suivi, et rien ne peut supprimer, déplacer ou renommer ses fichiers tant que vous ne l’avez pas déverrouillé. Un programme exécuté en tant qu’administrateur peut retirer le verrou, et CapyWatcher le remet en moins de 2 secondes et vous prévient. Activez la cloche d’un dossier suivi, et une notification Windows indique quel programme a supprimé des fichiers et combien, avec un bouton pour l’arrêter.
 
 ### Un historique sous contrôle
 
@@ -74,7 +74,7 @@ Thèmes clair et sombre, et contraste élevé de Windows. Chaque vue se contrôl
 
 ### Léger pour votre ordinateur
 
-Le service en arrière-plan utilise environ 7 Mo de mémoire, et l’application 41 Mo dans la zone de notification ou 52 Mo avec sa fenêtre ouverte. Le service reste proche de 0 % du processeur au repos et à environ 1 % même quand des milliers de fichiers sont écrits chaque seconde. Mesuré dans le Gestionnaire des tâches sous Windows 11 avec 12 cœurs.
+Le service en arrière-plan utilise environ 8 Mo de mémoire. L’application utilise environ 4 Mo et presque pas de processeur dans la zone de notification, 23 Mo réduite et 50 à 90 Mo avec sa fenêtre ouverte. Le service reste proche de 0 % du processeur au repos et à environ 1 % même quand des milliers de fichiers sont écrits chaque seconde. Mesuré dans le Gestionnaire des tâches sous Windows 11 avec 12 cœurs.
 
 ### En 8 langues
 
