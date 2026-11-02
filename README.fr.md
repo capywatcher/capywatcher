@@ -36,7 +36,15 @@ Il est fait pour les personnes qui utilisent des agents IA de programmation comm
 
 ### La réponse au clic droit
 
-Faites un clic droit sur un fichier dans l’Explorateur de fichiers (sous Windows 11, dans Afficher plus d’options) et sélectionnez CapyWatcher. Une petite fenêtre indique quel programme l’a créé, quand, pour quel utilisateur, et la chaîne des programmes qui l’ont lancé. Vous pouvez aussi rechercher un fichier depuis l’application, ou déposer des fichiers et des dossiers sur sa fenêtre.
+Faites un clic droit sur un fichier dans l’Explorateur de fichiers (sous Windows 11, dans Afficher plus d’options) et sélectionnez CapyWatcher : qui a créé ce fichier ? Une petite fenêtre indique quel programme l’a créé, quand, pour quel utilisateur, et la chaîne des programmes qui l’ont lancé. Vous pouvez aussi rechercher un fichier depuis l’application, ou déposer des fichiers et des dossiers sur sa fenêtre.
+
+### Le sous-menu de l’Explorateur
+
+Un clic droit sur un fichier, un dossier ou un lecteur, clés USB et lecteurs réseau compris, ouvre le sous-menu CapyWatcher : l’afficher dans l’Historique, le suivre ou arrêter de le suivre, verrouiller ou déverrouiller un dossier, activer ou désactiver ses alertes de suppression.
+
+### Qu’est-ce qui utilise ce fichier
+
+Un clic droit sur un fichier ou un dossier montre chaque programme qui l’utilise, avec son icône, son nom et son utilisateur. Fermez un programme depuis cette liste, ou arrêtez-le s’il ne se ferme pas. Dans un dossier, l’application vérifie les 5 000 premiers fichiers.
 
 ### L’historique par programme
 
@@ -54,7 +62,7 @@ Sélectionnez plusieurs fichiers, faites un clic droit, et voyez le programme de
 
 ### Les dossiers de votre choix
 
-Choisissez les dossiers à surveiller, sur n’importe quel lecteur de votre ordinateur. Un lecteur non connecté garde son réglage jusqu’à son retour.
+Choisissez les dossiers à surveiller, sur n’importe quel lecteur de votre ordinateur, une clé USB, ou un lecteur réseau ou un partage que vous ajoutez. Un lecteur non connecté garde son réglage jusqu’à son retour. Dossiers suivis indique aussi combien de fichiers ont été créés et supprimés dans chacun : aujourd’hui, sur 7 ou 30 jours, ou depuis le début du suivi.
 
 ### Verrous et alertes de suppression
 
@@ -90,7 +98,7 @@ L’historique reste sur votre ordinateur, et le service qui surveille vos dossi
 
 - Il enregistre les nouveaux fichiers à partir de son installation, il ne peut donc rien dire des fichiers plus anciens.
 - L’Historique enregistre les fichiers créés ou renommés dans les dossiers suivis, pas les suppressions ni les modifications.
-- Il ne fonctionne pas sur les lecteurs réseau, seulement sur les lecteurs de votre ordinateur.
+- Sur un lecteur réseau ou un partage, il n’enregistre que ce que font les programmes de votre ordinateur.
 - Il enregistre quel programme a créé un fichier. Un dossier verrouillé refuse les suppressions, les déplacements et les changements de nom, pas les nouveaux fichiers.
 
 ## Prix

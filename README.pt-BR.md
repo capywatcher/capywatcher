@@ -36,7 +36,15 @@ Feito para quem usa agentes de IA de programação como Claude Code, Codex ou Cu
 
 ### A resposta no botão direito
 
-Clique com o botão direito em um arquivo no Explorador de Arquivos (no Windows 11, em Mostrar mais opções) e selecione CapyWatcher. Uma janela pequena mostra qual programa o criou, quando, para qual usuário, e a cadeia de programas que o iniciou. Você também pode consultar um arquivo pelo app, ou soltar arquivos e pastas na janela dele.
+Clique com o botão direito em um arquivo no Explorador de Arquivos (no Windows 11, em Mostrar mais opções) e selecione CapyWatcher: quem criou este arquivo? Uma janela pequena mostra qual programa o criou, quando, para qual usuário, e a cadeia de programas que o iniciou. Você também pode consultar um arquivo pelo app, ou soltar arquivos e pastas na janela dele.
+
+### O submenu do Explorador
+
+Clique com o botão direito em um arquivo, uma pasta ou uma unidade, inclusive pendrives e unidades de rede, para abrir o submenu do CapyWatcher: mostrar no Histórico, monitorar ou parar de monitorar, bloquear ou desbloquear uma pasta, e ativar ou desativar os alertas de exclusão dela.
+
+### O que está usando este arquivo
+
+Clique com o botão direito em um arquivo ou uma pasta para ver cada programa que o usa, com ícone, nome e usuário. Feche um programa dali, ou encerre-o se ele não fechar. Em uma pasta, o app verifica os primeiros 5.000 arquivos.
 
 ### O histórico por programa
 
@@ -54,7 +62,7 @@ Selecione vários arquivos, clique com o botão direito e veja o programa de cad
 
 ### Só as pastas que você escolher
 
-Escolha as pastas para monitorar, em qualquer unidade do seu computador. Uma unidade desconectada mantém a configuração até voltar.
+Escolha as pastas para monitorar, em qualquer unidade do seu computador, um pendrive, ou uma unidade de rede ou compartilhamento que você adicionar. Uma unidade desconectada mantém a configuração até voltar. Pastas monitoradas também mostra quantos arquivos foram criados e excluídos em cada uma: hoje, em 7 ou 30 dias, ou desde o início do monitoramento.
 
 ### Bloqueios e alertas de exclusão
 
@@ -90,7 +98,7 @@ O histórico fica no seu computador, e o serviço que monitora suas pastas não 
 
 - Ele registra arquivos novos a partir da instalação, então não sabe nada sobre os anteriores.
 - O Histórico registra arquivos criados ou renomeados nas pastas monitoradas, não exclusões nem edições.
-- Não funciona em unidades de rede, só nas unidades do seu computador.
+- Em uma unidade de rede ou um compartilhamento, ele registra só o que os programas do seu computador fazem.
 - Ele registra qual programa criou um arquivo. Uma pasta bloqueada recusa exclusões, movimentações e mudanças de nome, não arquivos novos.
 
 ## Preço

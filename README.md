@@ -36,7 +36,15 @@ It's made for people who run AI coding agents such as Claude Code, Codex or Curs
 
 ### The right-click answer
 
-Right-click a file in File Explorer (on Windows 11, under Show more options) and select CapyWatcher. A small window shows which program created it, when, for which user, and the chain of programs that started it. You can also look up a file from inside the app, or drop files and folders on its window.
+Right-click a file in File Explorer (on Windows 11, under Show more options) and select CapyWatcher: who created this file? A small window shows which program created it, when, for which user, and the chain of programs that started it. You can also look up a file from inside the app, or drop files and folders on its window.
+
+### The Explorer submenu
+
+Right-click a file, folder or drive, USB and network drives too, for the CapyWatcher submenu: show it in History, track or stop tracking it, lock or unlock a folder and turn its delete alerts on or off.
+
+### What’s using this file
+
+Right-click a file or folder to see each program using it, with its icon, name and user. Close a program from there, or stop it if it doesn’t close. In a folder, the app checks the first 5,000 files.
 
 ### History by program
 
@@ -54,7 +62,7 @@ Select several files, right-click, and see each one's program. A download rename
 
 ### Only the folders you choose
 
-Choose the folders to track, on any drive in your computer. A drive that isn't connected keeps its setting until it's back.
+Choose the folders to track, on any drive in your computer, a USB drive or pendrive, or a network drive or share you add. A drive that isn't connected keeps its setting until it's back. Tracked folders also shows how many files were created and deleted in each one: today, over 7 or 30 days, or since tracking began.
 
 ### Locks and delete alerts
 
@@ -90,7 +98,7 @@ The history stays on your computer, and the service that watches your folders ha
 
 - It records new files from the moment you install it, so it can't tell you about older ones.
 - History records files created or renamed in the folders you track, not deletions or edits.
-- It doesn't work on network drives, only on drives in your computer.
+- On a network drive or share, it records only what programs on your computer do.
 - It records which program created a file. A locked folder refuses deletes, moves and renames, not new files.
 
 ## Price

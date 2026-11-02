@@ -36,7 +36,15 @@ Windows non tiene traccia del programma che ha creato un file, e la maggior part
 
 ### La risposta col clic destro
 
-Fai clic destro su un file in Esplora file (in Windows 11, sotto Mostra altre opzioni) e seleziona CapyWatcher. Una piccola finestra mostra quale programma l’ha creato, quando, per quale utente, e la catena di programmi che l’ha avviato. Puoi anche cercare un file dall’app, o trascinare file e cartelle sulla sua finestra.
+Fai clic destro su un file in Esplora file (in Windows 11, sotto Mostra altre opzioni) e seleziona CapyWatcher: chi ha creato questo file? Una piccola finestra mostra quale programma l’ha creato, quando, per quale utente, e la catena di programmi che l’ha avviato. Puoi anche cercare un file dall’app, o trascinare file e cartelle sulla sua finestra.
+
+### Il sottomenu di Esplora file
+
+Fai clic destro su un file, una cartella o un’unità, anche pendrive e unità di rete, per il sottomenu di CapyWatcher: mostrarlo in Cronologia, monitorarlo o smettere di farlo, bloccare o sbloccare una cartella e attivare o disattivare i suoi avvisi di eliminazione.
+
+### Cosa sta usando questo file
+
+Fai clic destro su un file o una cartella per vedere ogni programma che lo usa, con icona, nome e utente. Chiudi un programma da lì, o arrestalo se non si chiude. In una cartella, l’app controlla i primi 5.000 file.
 
 ### La cronologia per programma
 
@@ -54,7 +62,7 @@ Seleziona più file, fai clic destro, e vedi il programma di ciascuno. Un downlo
 
 ### Le cartelle che scegli tu
 
-Scegli le cartelle da monitorare, su qualsiasi unità del tuo computer. Un’unità non collegata conserva la sua impostazione finché non torna.
+Scegli le cartelle da monitorare, su qualsiasi unità del tuo computer, un pendrive, o un’unità di rete o una condivisione che aggiungi. Un’unità non collegata conserva la sua impostazione finché non torna. Cartelle monitorate mostra anche quanti file sono stati creati ed eliminati in ognuna: oggi, in 7 o 30 giorni, o da quando è iniziato il monitoraggio.
 
 ### Blocchi e avvisi di eliminazione
 
@@ -90,7 +98,7 @@ La cronologia resta sul tuo computer, e il servizio che controlla le cartelle no
 
 - Registra i nuovi file dal momento in cui lo installi, quindi non può dirti nulla dei file precedenti.
 - La Cronologia registra i file creati o rinominati nelle cartelle monitorate, non le eliminazioni né le modifiche.
-- Non funziona sulle unità di rete, solo sulle unità del tuo computer.
+- Su un’unità di rete o una condivisione, registra solo ciò che fanno i programmi del tuo computer.
 - Registra quale programma ha creato un file. Una cartella bloccata rifiuta eliminazioni, spostamenti e cambi di nome, non i nuovi file.
 
 ## Prezzo

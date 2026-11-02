@@ -16,7 +16,7 @@
   <p>
     <a href="https://x.com/CapyWatcherApp"><img src="https://img.shields.io/badge/X-CapyWatcherApp-000000?style=flat-square&logo=x&logoColor=white" alt="Obserwuj @CapyWatcherApp na X"></a>
     &nbsp;
-    <a href="https://capywatcher.com/pl/release-notes/rss.xml"><img src="https://img.shields.io/badge/RSS-capywatcher.com-FF7A1A?style=flat-square&logo=rss&logoColor=white" alt="Kanał RSS z informacjami o wersji"></a>
+    <a href="https://capywatcher.com/pl/release-notes/rss.xml"><img src="https://img.shields.io/badge/RSS-capywatcher.com-FF7A1A?style=flat-square&logo=rss&logoColor=white" alt="Kanał RSS z informacjami o wersji"></a>
     &nbsp;
     <a href="mailto:support@capywatcher.com"><img src="https://img.shields.io/badge/Email-support%40capywatcher.com-30363D?style=flat-square&logo=maildotru&logoColor=white" alt="Napisz na support@capywatcher.com"></a>
   </p>
@@ -36,7 +36,15 @@ Dla osób, które pracują z agentami AI do programowania, takimi jak Claude Co
 
 ### Odpowiedź pod prawym przyciskiem
 
-Kliknij plik prawym przyciskiem w Eksploratorze plików (w Windows 11 w Pokaż więcej opcji) i wybierz CapyWatcher. Małe okno pokazuje, który program go utworzył, kiedy, dla którego użytkownika, i łańcuch programów, które go uruchomiły. Możesz też sprawdzić plik w aplikacji albo upuścić pliki i foldery na jej okno.
+Kliknij plik prawym przyciskiem w Eksploratorze plików (w Windows 11 w Pokaż więcej opcji) i wybierz CapyWatcher: kto utworzył ten plik? Małe okno pokazuje, który program go utworzył, kiedy, dla którego użytkownika, i łańcuch programów, które go uruchomiły. Możesz też sprawdzić plik w aplikacji albo upuścić pliki i foldery na jej okno.
+
+### Podmenu w Eksploratorze
+
+Kliknij prawym przyciskiem plik, folder albo dysk, także pendrive i dysk sieciowy, żeby otworzyć podmenu CapyWatcher: pokazać go w widoku Historia, zacząć albo przestać go śledzić, zablokować albo odblokować folder oraz włączyć albo wyłączyć jego alerty o usuwaniu.
+
+### Co używa tego pliku
+
+Kliknij prawym przyciskiem plik albo folder, żeby zobaczyć każdy program, który go używa, z ikoną, nazwą i użytkownikiem. Możesz stamtąd zamknąć program albo zatrzymać go, jeśli się nie zamyka. W folderze aplikacja sprawdza pierwsze 5000 plików.
 
 ### Historia według programu
 
@@ -54,11 +62,11 @@ Zaznacz kilka plików, kliknij prawym przyciskiem i zobacz program każdego z 
 
 ### Tylko wybrane foldery
 
-Wybierz foldery do obserwowania, na dowolnym dysku w Twoim komputerze. Odłączony dysk zachowuje swoje ustawienia do czasu, aż znów go podłączysz.
+Wybierz foldery do obserwowania, na dowolnym dysku w Twoim komputerze, na pendrivie albo na dodanym przez Ciebie dysku sieciowym lub udziale. Odłączony dysk zachowuje swoje ustawienia do czasu, aż znów go podłączysz. Śledzone foldery pokazują też, ile plików utworzono i usunięto w każdym z nich: dziś, w ciągu 7 albo 30 dni albo od początku śledzenia.
 
 ### Blokady i alerty o usuwaniu
 
-Każdy śledzony folder ma własną kłódkę i własny dzwonek. Możesz użyć jednego, drugiego albo obu naraz. Zablokuj śledzony folder, a nic nie będzie mogło usuwać, przenosić ani zmieniać nazw jego plików, dopóki go nie odblokujesz. Program uruchomiony jako administrator może zdjąć blokadę, a CapyWatcher w ciągu 2 sekund zakłada ją z powrotem i informuje Cię o tym. Włącz dzwonek śledzonego folderu, a powiadomienie Windows powie, który program usunął pliki i ile, z przyciskiem, by go zatrzymać.
+Każdy śledzony folder ma własną kłódkę i własny dzwonek. Możesz użyć jednego, drugiego albo obu naraz. Zablokuj śledzony folder, a nic nie będzie mogło usuwać, przenosić ani zmieniać nazw jego plików, dopóki go nie odblokujesz. Program uruchomiony jako administrator może zdjąć blokadę, a CapyWatcher w ciągu 2 sekund zakłada ją z powrotem i informuje Cię o tym. Włącz dzwonek śledzonego folderu, a powiadomienie Windows powie, który program usunął pliki i ile, z przyciskiem, by go zatrzymać.
 
 ### Historia pod Twoją kontrolą
 
@@ -74,9 +82,9 @@ Jasny i ciemny motyw oraz kontrast Windows. Każdy widok obsłużysz w całoś
 
 ### Lekka dla komputera
 
-Usługa w tle zużywa około 8 MB pamięci. Aplikacja w zasobniku zużywa około 4 MB i prawie nie używa CPU, po zminimalizowaniu 23 MB, a z otwartym oknem od 50 do 90 MB. W spoczynku usługa zużywa blisko 0 % CPU, a około 1 % nawet wtedy, gdy co sekundę zapisywane są tysiące plików. Zmierzono w Menedżerze zadań w Windows 11 na 12 rdzeniach.
+Usługa w tle zużywa około 8 MB pamięci. Aplikacja w zasobniku zużywa około 4 MB i prawie nie używa CPU, po zminimalizowaniu 23 MB, a z otwartym oknem od 50 do 90 MB. W spoczynku usługa zużywa blisko 0 % CPU, a około 1 % nawet wtedy, gdy co sekundę zapisywane są tysiące plików. Zmierzono w Menedżerze zadań w Windows 11 na 12 rdzeniach.
 
-### W 8 językach
+### W 8 językach
 
 Angielski, niemiecki, hiszpański, francuski, włoski, polski, portugalski (Brazylia) i japoński. Aplikacja używa języka Windows, jeśli go ma.
 
@@ -90,7 +98,7 @@ Historia zostaje na Twoim komputerze, a usługa, która obserwuje foldery, nie 
 
 - Zapisuje nowe pliki od chwili instalacji, więc nic nie powie o starszych.
 - Historia zapisuje pliki utworzone lub przemianowane w śledzonych folderach, nie usunięcia ani zmiany treści.
-- Nie działa na dyskach sieciowych, tylko na dyskach w Twoim komputerze.
+- Na dysku sieciowym albo w udziale zapisuje tylko to, co robią programy z Twojego komputera.
 - Zapisuje, który program utworzył plik. Zablokowany folder nie pozwala usuwać, przenosić ani zmieniać nazw plików, ale nowe pliki mogą w nim powstawać.
 
 ## Cena
@@ -103,13 +111,13 @@ Ceny są w dolarach amerykańskich. Przy płatności może zostać doliczony po
 
 ## O tym repozytorium
 
-CapyWatcher ma zamknięty kod źródłowy, więc to repozytorium zawiera jego stronę produktu, a nie kod. Pobierz aplikację z [capywatcher.com](https://capywatcher.com/pl/download).
+CapyWatcher ma zamknięty kod źródłowy, więc to repozytorium zawiera jego stronę produktu, a nie kod. Pobierz aplikację z [capywatcher.com](https://capywatcher.com/pl/download).
 
 ## Pomoc i nowości
 
 - E-mail: [support@capywatcher.com](mailto:support@capywatcher.com)
 - X: [@CapyWatcherApp](https://x.com/CapyWatcherApp), nowości i wiadomości prywatne
-- Informacje o wersji: [capywatcher.com/pl/release-notes](https://capywatcher.com/pl/release-notes), z [kanałem RSS](https://capywatcher.com/pl/release-notes/rss.xml)
+- Informacje o wersji: [capywatcher.com/pl/release-notes](https://capywatcher.com/pl/release-notes), z [kanałem RSS](https://capywatcher.com/pl/release-notes/rss.xml)
 
 ## Twórca: Admiral Capy
 

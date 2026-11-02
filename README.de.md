@@ -36,7 +36,15 @@ Gemacht für alle, die KI-Agenten zum Programmieren wie Claude Code, Codex oder 
 
 ### Die Antwort per Rechtsklick
 
-Klicken Sie im Datei-Explorer mit der rechten Maustaste auf eine Datei (unter Windows 11 unter Weitere Optionen anzeigen) und wählen Sie CapyWatcher. Ein kleines Fenster zeigt, welches Programm sie erstellt hat, wann, für welchen Benutzer und die Kette der Programme, die es gestartet haben. Sie können eine Datei auch in der App suchen oder Dateien und Ordner auf ihr Fenster ziehen.
+Klicken Sie im Datei-Explorer mit der rechten Maustaste auf eine Datei (unter Windows 11 unter Weitere Optionen anzeigen) und wählen Sie CapyWatcher: Wer hat diese Datei erstellt? Ein kleines Fenster zeigt, welches Programm sie erstellt hat, wann, für welchen Benutzer und die Kette der Programme, die es gestartet haben. Sie können eine Datei auch in der App suchen oder Dateien und Ordner auf ihr Fenster ziehen.
+
+### Das Untermenü im Explorer
+
+Ein Rechtsklick auf eine Datei, einen Ordner oder ein Laufwerk, auch USB-Sticks und Netzlaufwerke, öffnet das Untermenü von CapyWatcher: im Verlauf zeigen, überwachen oder nicht mehr überwachen, einen Ordner sperren oder entsperren und seine Löschwarnungen ein- oder ausschalten.
+
+### Was verwendet diese Datei
+
+Ein Rechtsklick auf eine Datei oder einen Ordner zeigt jedes Programm, das sie verwendet, mit Symbol, Name und Benutzer. Dort schließen Sie ein Programm oder beenden es, falls es sich nicht schließen lässt. In einem Ordner prüft die App die ersten 5.000 Dateien.
 
 ### Verlauf nach Programm
 
@@ -54,7 +62,7 @@ Markieren Sie mehrere Dateien, klicken Sie mit der rechten Maustaste und sehen S
 
 ### Nur die Ordner Ihrer Wahl
 
-Wählen Sie die Ordner aus, die überwacht werden, auf jedem Laufwerk in Ihrem Computer. Ein nicht verbundenes Laufwerk behält seine Einstellung, bis es wieder da ist.
+Wählen Sie die Ordner aus, die überwacht werden, auf jedem Laufwerk in Ihrem Computer, einem USB-Stick oder einem Netzlaufwerk oder einer Freigabe, die Sie hinzufügen. Ein nicht verbundenes Laufwerk behält seine Einstellung, bis es wieder da ist. Überwachte Ordner zeigt auch, wie viele Dateien in jedem Ordner erstellt und gelöscht wurden: heute, in 7 oder 30 Tagen oder seit Beginn der Überwachung.
 
 ### Sperren und Löschwarnungen
 
@@ -90,7 +98,7 @@ Der Verlauf bleibt auf Ihrem Computer, und der Dienst, der Ihre Ordner überwach
 
 - CapyWatcher zeichnet neue Dateien ab der Installation auf und kann deshalb nichts über ältere sagen.
 - Der Verlauf zeichnet Dateien auf, die in überwachten Ordnern erstellt oder umbenannt werden, keine Löschungen oder Änderungen.
-- Es funktioniert nicht auf Netzlaufwerken, nur auf Laufwerken in Ihrem Computer.
+- Auf einem Netzlaufwerk oder einer Freigabe zeichnet es nur auf, was Programme auf Ihrem Computer tun.
 - Es zeichnet auf, welches Programm eine Datei erstellt hat. Ein gesperrter Ordner verweigert Löschen, Verschieben und Umbenennen, aber keine neuen Dateien.
 
 ## Preis

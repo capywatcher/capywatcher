@@ -36,7 +36,15 @@ Está pensado para quienes usan agentes de IA de programación como Claude Code,
 
 ### La respuesta con clic derecho
 
-Haz clic derecho en un archivo en el Explorador de archivos (en Windows 11, en Mostrar más opciones) y selecciona CapyWatcher. Una ventana pequeña muestra qué programa lo creó, cuándo, para qué usuario, y la cadena de programas que lo iniciaron. También puedes consultar un archivo desde la app, o soltar archivos y carpetas en su ventana.
+Haz clic derecho en un archivo en el Explorador de archivos (en Windows 11, en Mostrar más opciones) y selecciona CapyWatcher: ¿quién creó este archivo? Una ventana pequeña muestra qué programa lo creó, cuándo, para qué usuario, y la cadena de programas que lo iniciaron. También puedes consultar un archivo desde la app, o soltar archivos y carpetas en su ventana.
+
+### El submenú del Explorador
+
+Haz clic derecho en un archivo, una carpeta o una unidad, también pendrives y unidades de red, para abrir el submenú de CapyWatcher: mostrarlo en Historial, supervisarlo o dejar de hacerlo, bloquear o desbloquear una carpeta, y activar o desactivar sus avisos de borrado.
+
+### Qué está usando este archivo
+
+Haz clic derecho en un archivo o una carpeta para ver cada programa que lo usa, con su icono, su nombre y su usuario. Cierra un programa desde ahí, o detenlo si no se cierra. En una carpeta, la app comprueba los primeros 5000 archivos.
 
 ### El historial por programa
 
@@ -54,7 +62,7 @@ Selecciona varios archivos, haz clic derecho y mira el programa de cada uno. Una
 
 ### Solo las carpetas que elijas
 
-Elige las carpetas que quieres supervisar, en cualquier unidad de tu equipo. Una unidad que no está conectada conserva su configuración hasta que vuelve.
+Elige las carpetas que quieres supervisar, en cualquier unidad de tu equipo, un pendrive, o una unidad de red o carpeta compartida que añadas. Una unidad que no está conectada conserva su configuración hasta que vuelve. Carpetas supervisadas también muestra cuántos archivos se crearon y se borraron en cada una: hoy, en 7 o 30 días, o desde que empezó la supervisión.
 
 ### Bloqueos y avisos de borrado
 
@@ -90,7 +98,7 @@ El historial se queda en tu equipo, y el servicio que supervisa tus carpetas no 
 
 - Registra los archivos nuevos desde que lo instalas, así que no puede decirte nada de los anteriores.
 - El Historial registra los archivos creados o renombrados en las carpetas supervisadas, no los borrados ni las modificaciones.
-- No funciona en unidades de red, solo en las unidades de tu equipo.
+- En una unidad de red o una carpeta compartida, solo registra lo que hacen los programas de tu equipo.
 - Registra qué programa creó un archivo. Una carpeta bloqueada no deja borrar, mover ni cambiar de nombre sus archivos, pero sí crear archivos nuevos.
 
 ## Precio
