@@ -103,7 +103,7 @@ Historia zostaje na Twoim komputerze, a usługa, która obserwuje foldery, nie 
 
 ## Cena
 
-Wypróbuj wszystkie funkcje za darmo przez 7 dni, bez karty i bez e-maila. Potem 29 USD rocznie, dopóki nie anulujesz, albo 49 USD jednorazowo. Licencja obejmuje do 3 komputerów.
+Wypróbuj wszystkie funkcje za darmo przez 7 dni, bez karty i bez e-maila. Potem płacisz raz: 49 USD za maksymalnie 3 komputery albo od 13,30 USD za komputer w planie elastycznym.
 
 Ceny są w dolarach amerykańskich. Przy płatności może zostać doliczony podatek, zależnie od miejsca zamieszkania.
 
