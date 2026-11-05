@@ -103,7 +103,7 @@ O histórico fica no seu computador, e o serviço que monitora suas pastas não 
 
 ## Preço
 
-Teste todos os recursos grátis por 7 dias, sem cartão e sem e-mail. Depois, US$ 29 por ano até você cancelar, ou US$ 49 uma vez. Cada licença vale para até 3 computadores.
+Teste todos os recursos grátis por 7 dias, sem cartão e sem e-mail. Depois, você paga uma vez: US$ 49 para até 3 computadores, ou a partir de US$ 13,30 por computador com o plano flexível.
 
 Os preços estão em dólares americanos. Impostos podem ser somados no pagamento, conforme o lugar onde você mora.
 
