@@ -103,7 +103,7 @@ L’historique reste sur votre ordinateur, et le service qui surveille vos dossi
 
 ## Prix
 
-Essayez toutes les fonctions gratuitement pendant 7 jours, sans carte ni e-mail. Ensuite, 29 $ par an jusqu’à résiliation, ou 49 $ une fois. Chaque licence couvre jusqu’à 3 ordinateurs.
+Essayez toutes les fonctions gratuitement pendant 7 jours, sans carte ni e-mail. Ensuite, un seul paiement : 49 $ pour jusqu’à 3 ordinateurs, ou à partir de 13,30 $ par ordinateur avec la formule flexible.
 
 Les prix sont en dollars américains. Des taxes peuvent s’ajouter au paiement, selon votre pays de résidence.
 
