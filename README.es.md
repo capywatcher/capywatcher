@@ -103,7 +103,7 @@ El historial se queda en tu equipo, y el servicio que supervisa tus carpetas no 
 
 ## Precio
 
-Prueba todas las funciones gratis durante 7 días, sin tarjeta y sin correo. Después, 29 $ al año hasta que lo canceles, o 49 $ una vez. Cada licencia cubre hasta 3 equipos.
+Prueba todas las funciones gratis durante 7 días, sin tarjeta y sin correo. Después pagas una sola vez: 49 $ para hasta 3 equipos, o desde 13,30 $ por equipo con el plan flexible.
 
 Los precios están en dólares estadounidenses. Al pagar se pueden añadir impuestos, según dónde vivas.
 
