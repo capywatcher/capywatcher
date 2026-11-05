@@ -103,7 +103,7 @@ La cronologia resta sul tuo computer, e il servizio che controlla le cartelle no
 
 ## Prezzo
 
-Prova ogni funzione gratis per 7 giorni, senza carta e senza email. Poi 29 $ all’anno finché non lo annulli, o 49 $ una volta. Ogni licenza copre fino a 3 computer.
+Prova ogni funzione gratis per 7 giorni, senza carta e senza email. Poi paghi una volta sola: 49 $ per fino a 3 computer, o da 13,30 $ a computer con il piano flessibile.
 
 I prezzi sono in dollari statunitensi. Al pagamento possono aggiungersi delle imposte, a seconda di dove vivi.
 
