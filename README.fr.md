@@ -90,7 +90,7 @@ Anglais, allemand, espagnol, français, italien, polonais, portugais (Brésil) e
 
 ## Confidentialité
 
-L’historique reste sur votre ordinateur, et le service qui surveille vos dossiers n’a pas accès au réseau. Pas de compte, pas de statistiques d’utilisation. Deux vérifications passent par Internet, vers le serveur de l’application : la vérification de licence et la recherche de mises à jour. Elles n’envoient jamais vos fichiers, votre historique ou le nom de votre ordinateur.
+L’historique reste sur votre ordinateur, et le service qui surveille vos dossiers n’a pas accès au réseau. Il y est chiffré : les autres programmes ne peuvent pas le lire, et une copie ne s’ouvre sur aucun autre ordinateur, même équipé de CapyWatcher avec une licence valide. Pas de compte, pas de statistiques d’utilisation. Deux vérifications passent par Internet, vers le serveur de l’application : la vérification de licence et la recherche de mises à jour. Elles n’envoient jamais vos fichiers, votre historique ou le nom de votre ordinateur.
 
 [Lire la politique de confidentialité](https://capywatcher.com/fr/privacy)
 

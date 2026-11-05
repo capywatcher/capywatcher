@@ -90,7 +90,7 @@ Englisch, Deutsch, Spanisch, Französisch, Italienisch, Polnisch, Portugiesisch 
 
 ## Datenschutz
 
-Der Verlauf bleibt auf Ihrem Computer, und der Dienst, der Ihre Ordner überwacht, hat keinen Netzwerkzugriff. Kein Konto, keine Nutzungsstatistiken. Zwei Prüfungen gehen online, an den Server der App: die Lizenzprüfung und die Suche nach Updates. Sie senden nie Ihre Dateien, Ihren Verlauf oder den Namen Ihres Computers.
+Der Verlauf bleibt auf Ihrem Computer, und der Dienst, der Ihre Ordner überwacht, hat keinen Netzwerkzugriff. Dort ist er verschlüsselt, daher können andere Programme ihn nicht lesen, und eine Kopie lässt sich auf keinem anderen Computer öffnen, auch nicht auf einem mit CapyWatcher und gültiger Lizenz. Kein Konto, keine Nutzungsstatistiken. Zwei Prüfungen gehen online, an den Server der App: die Lizenzprüfung und die Suche nach Updates. Sie senden nie Ihre Dateien, Ihren Verlauf oder den Namen Ihres Computers.
 
 [Datenschutzerklärung lesen](https://capywatcher.com/de/privacy)
 

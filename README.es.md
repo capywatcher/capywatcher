@@ -90,7 +90,7 @@ Inglés, alemán, español, francés, italiano, polaco, portugués (Brasil) y ja
 
 ## Privacidad
 
-El historial se queda en tu equipo, y el servicio que supervisa tus carpetas no tiene acceso a la red. Sin cuenta y sin estadísticas de uso. Dos comprobaciones se conectan a internet, al servidor de la app: la comprobación de la licencia y la búsqueda de actualizaciones. Nunca envían tus archivos, tu historial ni el nombre de tu equipo.
+El historial se queda en tu equipo, y el servicio que supervisa tus carpetas no tiene acceso a la red. Allí está cifrado, así que otros programas no pueden leerlo, y una copia no se puede abrir en ningún otro equipo, ni siquiera en uno con CapyWatcher y una licencia válida. Sin cuenta y sin estadísticas de uso. Dos comprobaciones se conectan a internet, al servidor de la app: la comprobación de la licencia y la búsqueda de actualizaciones. Nunca envían tus archivos, tu historial ni el nombre de tu equipo.
 
 [Leer la política de privacidad](https://capywatcher.com/es/privacy)
 

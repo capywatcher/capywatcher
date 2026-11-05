@@ -90,7 +90,7 @@ English, German, Spanish, French, Italian, Polish, Portuguese (Brazil) and Japan
 
 ## Privacy
 
-The history stays on your computer, and the service that watches your folders has no network access. There's no account and no analytics. Two checks go online, to the app's own server: the license check and the update check. They never send your files, your history or your computer's name.
+The history stays on your computer, and the service that watches your folders has no network access. It's encrypted there, so other programs can't read it, and a copy can't be opened on any other computer, even one with CapyWatcher and a valid license. There's no account and no analytics. Two checks go online, to the app's own server: the license check and the update check. They never send your files, your history or your computer's name.
 
 [Read the privacy policy](https://capywatcher.com/en/privacy)
 

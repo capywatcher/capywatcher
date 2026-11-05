@@ -90,7 +90,7 @@ Angielski, niemiecki, hiszpański, francuski, włoski, polski, portugalski (Braz
 
 ## Prywatność
 
-Historia zostaje na Twoim komputerze, a usługa, która obserwuje foldery, nie ma dostępu do sieci. Bez konta i bez statystyk użycia. Dwa sprawdzenia łączą się z internetem, z serwerem aplikacji: sprawdzanie licencji i sprawdzanie aktualizacji. Nigdy nie wysyłają Twoich plików, historii ani nazwy komputera.
+Historia zostaje na Twoim komputerze, a usługa, która obserwuje foldery, nie ma dostępu do sieci. Jest tam zaszyfrowana, więc inne programy nie mogą jej odczytać, a kopii nie da się otworzyć na żadnym innym komputerze, nawet takim z CapyWatcher i ważną licencją. Bez konta i bez statystyk użycia. Dwa sprawdzenia łączą się z internetem, z serwerem aplikacji: sprawdzanie licencji i sprawdzanie aktualizacji. Nigdy nie wysyłają Twoich plików, historii ani nazwy komputera.
 
 [Przeczytaj politykę prywatności](https://capywatcher.com/pl/privacy)
 

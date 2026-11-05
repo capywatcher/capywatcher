@@ -90,7 +90,7 @@ Inglese, tedesco, spagnolo, francese, italiano, polacco, portoghese (Brasile) e 
 
 ## Privacy
 
-La cronologia resta sul tuo computer, e il servizio che controlla le cartelle non ha accesso alla rete. Nessun account e nessuna statistica d’uso. Due controlli vanno online, verso il server dell’app: il controllo della licenza e la ricerca di aggiornamenti. Non inviano mai i tuoi file, la tua cronologia o il nome del computer.
+La cronologia resta sul tuo computer, e il servizio che controlla le cartelle non ha accesso alla rete. Lì è cifrata, quindi gli altri programmi non possono leggerla, e una copia non si apre su nessun altro computer, nemmeno su uno con CapyWatcher e una licenza valida. Nessun account e nessuna statistica d’uso. Due controlli vanno online, verso il server dell’app: il controllo della licenza e la ricerca di aggiornamenti. Non inviano mai i tuoi file, la tua cronologia o il nome del computer.
 
 [Leggi l’informativa sulla privacy](https://capywatcher.com/it/privacy)
 

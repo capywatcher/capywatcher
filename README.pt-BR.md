@@ -90,7 +90,7 @@ Inglês, alemão, espanhol, francês, italiano, polonês, português (Brasil) e 
 
 ## Privacidade
 
-O histórico fica no seu computador, e o serviço que monitora suas pastas não tem acesso à rede. Sem conta e sem estatísticas de uso. Duas verificações usam a internet, com o servidor do app: a verificação da licença e a busca por atualizações. Elas nunca enviam seus arquivos, seu histórico ou o nome do seu computador.
+O histórico fica no seu computador, e o serviço que monitora suas pastas não tem acesso à rede. Lá ele fica criptografado, então outros programas não conseguem lê-lo, e uma cópia não abre em nenhum outro computador, nem mesmo em um com o CapyWatcher e uma licença válida. Sem conta e sem estatísticas de uso. Duas verificações usam a internet, com o servidor do app: a verificação da licença e a busca por atualizações. Elas nunca enviam seus arquivos, seu histórico ou o nome do seu computador.
 
 [Ler a política de privacidade](https://capywatcher.com/pt/privacy)
 
