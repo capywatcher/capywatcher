@@ -103,7 +103,7 @@ The history stays on your computer, and the service that watches your folders ha
 
 ## Price
 
-Try every feature free for 7 days, with no card and no email. Then $29 a year until you cancel, or $49 once. Each license covers up to 3 computers.
+Try every feature free for 7 days, with no card and no email. Then pay once: $49 for up to 3 computers, or from $13.30 a computer with the Flexible plan.
 
 Prices are in US dollars. Tax may be added at checkout, depending on where you live.
 
