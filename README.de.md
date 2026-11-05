@@ -103,7 +103,7 @@ Der Verlauf bleibt auf Ihrem Computer, und der Dienst, der Ihre Ordner überwach
 
 ## Preis
 
-Testen Sie 7 Tage lang jede Funktion kostenlos, ohne Karte und ohne E-Mail. Danach 29 $ pro Jahr bis zur Kündigung oder 49 $ einmalig. Jede Lizenz gilt für bis zu 3 Computer.
+Testen Sie 7 Tage lang jede Funktion kostenlos, ohne Karte und ohne E-Mail. Danach zahlen Sie einmal: 49 $ für bis zu 3 Computer oder ab 13,30 $ pro Computer mit dem Flex-Plan.
 
 Die Preise sind in US-Dollar. Je nach Wohnort kann beim Bezahlen Steuer hinzukommen.
 
