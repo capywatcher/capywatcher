@@ -113,6 +113,8 @@ Ceny są w dolarach amerykańskich. Przy płatności może zostać doliczony po
 
 CapyWatcher ma zamknięty kod źródłowy, więc to repozytorium zawiera jego stronę produktu, a nie kod. Pobierz aplikację z [capywatcher.com](https://capywatcher.com/pl/download).
 
+Wszelkie prawa zastrzeżone. Co możesz robić z aplikacją, mówią [warunki użytkowania](https://capywatcher.com/pl/terms#ip).
+
 ## Pomoc i nowości
 
 - E-mail: [support@capywatcher.com](mailto:support@capywatcher.com)

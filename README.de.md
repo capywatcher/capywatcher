@@ -113,6 +113,8 @@ Die Preise sind in US-Dollar. Je nach Wohnort kann beim Bezahlen Steuer hinzukom
 
 CapyWatcher ist nicht quelloffen. Dieses Repository enthält deshalb seine Produktseite, nicht seinen Code. Laden Sie die App auf [capywatcher.com](https://capywatcher.com/de/download) herunter.
 
+Alle Rechte vorbehalten. Was Sie mit der App tun dürfen, steht in den [Nutzungsbedingungen](https://capywatcher.com/de/terms#ip).
+
 ## Hilfe und Neuigkeiten
 
 - E-Mail: [support@capywatcher.com](mailto:support@capywatcher.com)

@@ -113,6 +113,8 @@ Prices are in US dollars. Tax may be added at checkout, depending on where you l
 
 CapyWatcher is closed source, so this repository holds its product page, not its code. Download the app from [capywatcher.com](https://capywatcher.com/en/download).
 
+All rights reserved. The [terms of use](https://capywatcher.com/en/terms#ip) say what you may do with the app.
+
 ## Help and news
 
 - Email: [support@capywatcher.com](mailto:support@capywatcher.com)

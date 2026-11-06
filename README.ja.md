@@ -113,6 +113,8 @@ Claude Code、Codex、Cursor などの AI コーディング エージェント�
 
 CapyWatcher はソースコードを公開していないため、このリポジトリにあるのは製品紹介のページで、コードではありません。アプリは [capywatcher.com](https://capywatcher.com/ja/download) からダウンロードできます。
 
+すべての権利を留保します。アプリでできることは[利用規約](https://capywatcher.com/ja/terms#ip)に書いてあります。
+
 ## サポートとお知らせ
 
 - メール: [support@capywatcher.com](mailto:support@capywatcher.com)

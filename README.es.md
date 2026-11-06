@@ -113,6 +113,8 @@ Los precios están en dólares estadounidenses. Al pagar se pueden añadir impue
 
 CapyWatcher es de código cerrado, así que este repositorio contiene su página de producto, no su código. Descarga la app desde [capywatcher.com](https://capywatcher.com/es/download).
 
+Todos los derechos reservados. Los [términos de uso](https://capywatcher.com/es/terms#ip) dicen lo que puedes hacer con la app.
+
 ## Ayuda y novedades
 
 - Correo: [support@capywatcher.com](mailto:support@capywatcher.com)
