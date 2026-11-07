@@ -120,6 +120,7 @@ Wszelkie prawa zastrzeżone. Co możesz robić z aplikacją, mówią [warunki u�
 - E-mail: [support@capywatcher.com](mailto:support@capywatcher.com)
 - X: [@CapyWatcherApp](https://x.com/CapyWatcherApp), nowości i wiadomości prywatne
 - Informacje o wersji: [capywatcher.com/pl/release-notes](https://capywatcher.com/pl/release-notes), z [kanałem RSS](https://capywatcher.com/pl/release-notes/rss.xml)
+- Blog: [capywatcher.com/pl/blog](https://capywatcher.com/pl/blog), z [kanałem RSS](https://capywatcher.com/pl/blog/rss.xml)
 
 ## Twórca: Admiral Capy
 
