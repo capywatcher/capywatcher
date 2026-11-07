@@ -120,6 +120,7 @@ All rights reserved. The [terms of use](https://capywatcher.com/en/terms#ip) say
 - Email: [support@capywatcher.com](mailto:support@capywatcher.com)
 - X: [@CapyWatcherApp](https://x.com/CapyWatcherApp), for news and DMs
 - Release notes: [capywatcher.com/en/release-notes](https://capywatcher.com/en/release-notes), with an [RSS feed](https://capywatcher.com/en/release-notes/rss.xml)
+- Blog: [capywatcher.com/en/blog](https://capywatcher.com/en/blog), with an [RSS feed](https://capywatcher.com/en/blog/rss.xml)
 
 ## Made by Admiral Capy
 
