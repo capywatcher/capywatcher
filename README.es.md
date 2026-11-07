@@ -120,6 +120,7 @@ Todos los derechos reservados. Los [términos de uso](https://capywatcher.com/es
 - Correo: [support@capywatcher.com](mailto:support@capywatcher.com)
 - X: [@CapyWatcherApp](https://x.com/CapyWatcherApp), para novedades y mensajes directos
 - Notas de la versión: [capywatcher.com/es/release-notes](https://capywatcher.com/es/release-notes), con un [feed RSS](https://capywatcher.com/es/release-notes/rss.xml)
+- Blog: [capywatcher.com/es/blog](https://capywatcher.com/es/blog), con un [feed RSS](https://capywatcher.com/es/blog/rss.xml)
 
 ## Hecho por Admiral Capy
 
