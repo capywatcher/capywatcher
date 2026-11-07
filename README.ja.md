@@ -120,6 +120,7 @@ CapyWatcher はソースコードを公開していないため、このリポ�
 - メール: [support@capywatcher.com](mailto:support@capywatcher.com)
 - X: [@CapyWatcherApp](https://x.com/CapyWatcherApp) (お知らせと DM)
 - リリース ノート: [capywatcher.com/ja/release-notes](https://capywatcher.com/ja/release-notes) ([RSS フィード](https://capywatcher.com/ja/release-notes/rss.xml)もあります)
+- ブログ: [capywatcher.com/ja/blog](https://capywatcher.com/ja/blog) ([RSS フィード](https://capywatcher.com/ja/blog/rss.xml)もあります)
 
 ## 作者は Admiral Capy
 
