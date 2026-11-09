@@ -21,7 +21,7 @@
     <a href="mailto:support@capywatcher.com"><img src="https://img.shields.io/badge/Email-support%40capywatcher.com-30363D?style=flat-square&logo=maildotru&logoColor=white" alt="E-Mail an support@capywatcher.com"></a>
   </p>
 
-  <p><a href="README.md">English</a> &nbsp;·&nbsp; Deutsch &nbsp;·&nbsp; <a href="README.es.md">Español</a> &nbsp;·&nbsp; <a href="README.fr.md">Français</a> &nbsp;·&nbsp; <a href="README.it.md">Italiano</a> &nbsp;·&nbsp; <a href="README.pl.md">Polski</a> &nbsp;·&nbsp; <a href="README.pt-BR.md">Português (Brasil)</a> &nbsp;·&nbsp; <a href="README.ja.md">日本語</a></p>
+  <p><a href="README.md">English</a> &nbsp;·&nbsp; Deutsch &nbsp;·&nbsp; <a href="README.es.md">Español</a> &nbsp;·&nbsp; <a href="README.fr.md">Français</a> &nbsp;·&nbsp; <a href="README.it.md">Italiano</a> &nbsp;·&nbsp; <a href="README.pl.md">Polski</a> &nbsp;·&nbsp; <a href="README.pt-BR.md">Português (Brasil)</a> &nbsp;·&nbsp; <a href="README.ja.md">日本語</a> &nbsp;·&nbsp; <a href="README.zh-TW.md">繁體中文</a></p>
 </div>
 
 ![Wer hat diese Datei erstellt: Die Antwort per Rechtsklick nennt das Programm, das eine neue Datei erstellt hat, mit Benutzer und Uhrzeit.](images/de/answer.png)
