@@ -84,9 +84,9 @@ Thèmes clair et sombre, et contraste élevé de Windows. Chaque vue se contrôl
 
 Le service en arrière-plan utilise environ 8 Mo de mémoire. L’application utilise environ 4 Mo et presque pas de processeur dans la zone de notification, 23 Mo réduite et 50 à 90 Mo avec sa fenêtre ouverte. Le service reste proche de 0 % du processeur au repos et à environ 1 % même quand des milliers de fichiers sont écrits chaque seconde. Mesuré dans le Gestionnaire des tâches sous Windows 11 avec 12 cœurs.
 
-### En 8 langues
+### En 9 langues
 
-Anglais, allemand, espagnol, français, italien, polonais, portugais (Brésil) et japonais. L’application utilise la langue de Windows quand elle la propose.
+Anglais, allemand, espagnol, français, italien, polonais, portugais (Brésil), japonais et chinois traditionnel. L’application utilise la langue de Windows quand elle la propose.
 
 ## Confidentialité
 
@@ -103,7 +103,7 @@ L’historique reste sur votre ordinateur, et le service qui surveille vos dossi
 
 ## Prix
 
-Essayez toutes les fonctions gratuitement pendant 7 jours, sans carte ni e-mail. Ensuite, un seul paiement : 49 $ pour jusqu’à 3 ordinateurs, ou à partir de 13,30 $ par ordinateur avec la formule flexible.
+Essayez toutes les fonctions gratuitement pendant 7 jours, sans carte ni e-mail. Ensuite, un seul paiement : 49 $ pour jusqu’à 3 ordinateurs, ou à partir de 13,30 $ par ordinateur avec la formule flexible. Pour de nombreux ordinateurs, ajoutez la clé à la commande d’installation, comme le montre la [page de téléchargement](https://capywatcher.com/fr/download#it), et chaque ordinateur l’active de lui-même.
 
 Les prix sont en dollars américains. Des taxes peuvent s’ajouter au paiement, selon votre pays de résidence.
 

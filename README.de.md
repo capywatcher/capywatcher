@@ -84,9 +84,9 @@ Helles und dunkles Design und Windows-Kontrastdesigns. Jede Ansicht lässt sich 
 
 Der Hintergrunddienst braucht etwa 8 MB Arbeitsspeicher. Die App braucht im Infobereich etwa 4 MB und fast keine CPU, minimiert 23 MB und mit offenem Fenster 50 bis 90 MB. Der Dienst liegt im Ruhezustand nahe 0 % CPU und bei etwa 1 %, selbst wenn jede Sekunde Tausende Dateien geschrieben werden. Gemessen im Task-Manager unter Windows 11 mit 12 Kernen.
 
-### In 8 Sprachen
+### In 9 Sprachen
 
-Englisch, Deutsch, Spanisch, Französisch, Italienisch, Polnisch, Portugiesisch (Brasilien) und Japanisch. Die App nutzt Ihre Windows-Sprache, wenn sie sie hat.
+Englisch, Deutsch, Spanisch, Französisch, Italienisch, Polnisch, Portugiesisch (Brasilien), Japanisch und traditionelles Chinesisch. Die App nutzt Ihre Windows-Sprache, wenn sie sie hat.
 
 ## Datenschutz
 
@@ -103,7 +103,7 @@ Der Verlauf bleibt auf Ihrem Computer, und der Dienst, der Ihre Ordner überwach
 
 ## Preis
 
-Testen Sie 7 Tage lang jede Funktion kostenlos, ohne Karte und ohne E-Mail. Danach zahlen Sie einmal: 49 $ für bis zu 3 Computer oder ab 13,30 $ pro Computer mit dem Flex-Plan.
+Testen Sie 7 Tage lang jede Funktion kostenlos, ohne Karte und ohne E-Mail. Danach zahlen Sie einmal: 49 $ für bis zu 3 Computer oder ab 13,30 $ pro Computer mit dem Flex-Plan. Für viele Computer geben Sie den Schlüssel im Installationsbefehl mit, wie es die [Download-Seite](https://capywatcher.com/de/download#it) zeigt, und jeder Computer aktiviert ihn selbst.
 
 Die Preise sind in US-Dollar. Je nach Wohnort kann beim Bezahlen Steuer hinzukommen.
 

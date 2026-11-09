@@ -84,9 +84,9 @@ Jasny i ciemny motyw oraz kontrast Windows. Każdy widok obsłużysz w całoś
 
 Usługa w tle zużywa około 8 MB pamięci. Aplikacja w zasobniku zużywa około 4 MB i prawie nie używa CPU, po zminimalizowaniu 23 MB, a z otwartym oknem od 50 do 90 MB. W spoczynku usługa zużywa blisko 0 % CPU, a około 1 % nawet wtedy, gdy co sekundę zapisywane są tysiące plików. Zmierzono w Menedżerze zadań w Windows 11 na 12 rdzeniach.
 
-### W 8 językach
+### W 9 językach
 
-Angielski, niemiecki, hiszpański, francuski, włoski, polski, portugalski (Brazylia) i japoński. Aplikacja używa języka Windows, jeśli go ma.
+Angielski, niemiecki, hiszpański, francuski, włoski, polski, portugalski (Brazylia), japoński i chiński tradycyjny. Aplikacja używa języka Windows, jeśli go ma.
 
 ## Prywatność
 
@@ -103,7 +103,7 @@ Historia zostaje na Twoim komputerze, a usługa, która obserwuje foldery, nie 
 
 ## Cena
 
-Wypróbuj wszystkie funkcje za darmo przez 7 dni, bez karty i bez e-maila. Potem płacisz raz: 49 USD za maksymalnie 3 komputery albo od 13,30 USD za komputer w planie elastycznym.
+Wypróbuj wszystkie funkcje za darmo przez 7 dni, bez karty i bez e-maila. Potem płacisz raz: 49 USD za maksymalnie 3 komputery albo od 13,30 USD za komputer w planie elastycznym. Przy wielu komputerach dodaj klucz do polecenia instalacji, jak pokazuje [strona pobierania](https://capywatcher.com/pl/download#it), a każdy komputer sam go aktywuje.
 
 Ceny są w dolarach amerykańskich. Przy płatności może zostać doliczony podatek, zależnie od miejsca zamieszkania.
 

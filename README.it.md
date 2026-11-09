@@ -84,9 +84,9 @@ Temi chiaro e scuro, e contrasto elevato di Windows. Ogni vista si usa del tutto
 
 Il servizio in background usa circa 8 MB di memoria. L’app usa circa 4 MB e quasi niente CPU nell’area di notifica, 23 MB ridotta a icona e da 50 a 90 MB con la finestra aperta. Il servizio resta vicino allo 0 % della CPU a riposo e intorno all’1 % anche quando vengono scritti migliaia di file al secondo. Misurato in Gestione attività su Windows 11 con 12 core.
 
-### In 8 lingue
+### In 9 lingue
 
-Inglese, tedesco, spagnolo, francese, italiano, polacco, portoghese (Brasile) e giapponese. L’app usa la lingua di Windows se la include.
+Inglese, tedesco, spagnolo, francese, italiano, polacco, portoghese (Brasile), giapponese e cinese tradizionale. L’app usa la lingua di Windows se la include.
 
 ## Privacy
 
@@ -103,7 +103,7 @@ La cronologia resta sul tuo computer, e il servizio che controlla le cartelle no
 
 ## Prezzo
 
-Prova ogni funzione gratis per 7 giorni, senza carta e senza email. Poi paghi una volta sola: 49 $ per fino a 3 computer, o da 13,30 $ a computer con il piano flessibile.
+Prova ogni funzione gratis per 7 giorni, senza carta e senza email. Poi paghi una volta sola: 49 $ per fino a 3 computer, o da 13,30 $ a computer con il piano flessibile. Per molti computer, inserisci la chiave nel comando di installazione, come mostra la [pagina di download](https://capywatcher.com/it/download#it), e ogni computer la attiva da solo.
 
 I prezzi sono in dollari statunitensi. Al pagamento possono aggiungersi delle imposte, a seconda di dove vivi.
 

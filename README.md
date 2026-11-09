@@ -84,9 +84,9 @@ Light and dark themes, and Windows High Contrast. Every view works from the keyb
 
 The background service uses about 8 MB of memory. The app uses about 4 MB and almost no CPU hidden in the tray, 23 MB minimized and 50 to 90 MB with its window open. The service stays close to 0% CPU at rest and about 1% even while thousands of files are written each second. Measured in Task Manager on Windows 11 with 12 cores.
 
-### In 8 languages
+### In 9 languages
 
-English, German, Spanish, French, Italian, Polish, Portuguese (Brazil) and Japanese. The app uses your Windows language when it has it.
+English, German, Spanish, French, Italian, Polish, Portuguese (Brazil), Japanese and Traditional Chinese. The app uses your Windows language when it has it.
 
 ## Privacy
 
@@ -103,7 +103,7 @@ The history stays on your computer, and the service that watches your folders ha
 
 ## Price
 
-Try every feature free for 7 days, with no card and no email. Then pay once: $49 for up to 3 computers, or from $13.30 a computer with the Flexible plan.
+Try every feature free for 7 days, with no card and no email. Then pay once: $49 for up to 3 computers, or from $13.30 a computer with the Flexible plan. To install on many computers, put the key in the install command, as the [download page](https://capywatcher.com/en/download#it) shows, and each computer activates it by itself.
 
 Prices are in US dollars. Tax may be added at checkout, depending on where you live.
 
