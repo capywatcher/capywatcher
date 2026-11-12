@@ -13,6 +13,8 @@
 
   <p>Windows 11, ou Windows 10 versão 1803 ou mais recente, 64 bits (x64). Grátis por 7 dias, sem cartão e sem e-mail.</p>
 
+  <p>Versão mais recente: <a href="https://capywatcher.com/pt/release-notes">1.1.7</a>, lançada em 12 de novembro de 2026.</p>
+
   <p>
     <a href="https://x.com/CapyWatcherApp"><img src="https://img.shields.io/badge/X-CapyWatcherApp-000000?style=flat-square&logo=x&logoColor=white" alt="Seguir @CapyWatcherApp no X"></a>
     &nbsp;

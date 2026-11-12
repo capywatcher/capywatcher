@@ -13,6 +13,8 @@
 
   <p>Windows 11、または Windows 10 バージョン 1803 以降の 64 ビット版 (x64)。7 日間無料で、カードもメール アドレスも不要です。</p>
 
+  <p>最新バージョンは <a href="https://capywatcher.com/ja/release-notes">1.1.7</a> です (2026 年 11 月 12 日公開)。</p>
+
   <p>
     <a href="https://x.com/CapyWatcherApp"><img src="https://img.shields.io/badge/X-CapyWatcherApp-000000?style=flat-square&logo=x&logoColor=white" alt="X で @CapyWatcherApp をフォロー"></a>
     &nbsp;

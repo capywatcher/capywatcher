@@ -13,6 +13,8 @@
 
   <p>Windows 11，或 Windows 10 版本 1803 以上，64 位元 (x64)。可免費試用 7 天，不需信用卡，也不需電子郵件。</p>
 
+  <p>最新版本：<a href="https://capywatcher.com/zh-tw/release-notes">1.1.7</a>，2026年11月12日發布。</p>
+
   <p>
     <a href="https://x.com/CapyWatcherApp"><img src="https://img.shields.io/badge/X-CapyWatcherApp-000000?style=flat-square&logo=x&logoColor=white" alt="在 X 上追蹤 @CapyWatcherApp"></a>
     &nbsp;
