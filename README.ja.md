@@ -113,15 +113,12 @@ Claude Code、Codex、Cursor などの AI コーディング エージェント�
 
 ## このリポジトリについて
 
-CapyWatcher はソースコードを公開していないため、このリポジトリにあるのは製品紹介のページで、コードではありません。アプリは [capywatcher.com](https://capywatcher.com/ja/download) からダウンロードできます。
+CapyWatcher はソースコードを公開していないため、このリポジトリにあるのは製品紹介のページで、コードではありません。
 
 すべての権利を留保します。アプリでできることは[利用規約](https://capywatcher.com/ja/terms#ip)に書いてあります。
 
-## サポートとお知らせ
+## ブログ
 
-- メール: [support@capywatcher.com](mailto:support@capywatcher.com)
-- X: [@CapyWatcherApp](https://x.com/CapyWatcherApp) (お知らせと DM)
-- リリース ノート: [capywatcher.com/ja/release-notes](https://capywatcher.com/ja/release-notes) ([RSS フィード](https://capywatcher.com/ja/release-notes/rss.xml)もあります)
 - ブログ: [capywatcher.com/ja/blog](https://capywatcher.com/ja/blog) ([RSS フィード](https://capywatcher.com/ja/blog/rss.xml)もあります)
 
 ## 作者は Admiral Capy

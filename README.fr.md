@@ -113,15 +113,12 @@ Les prix sont en dollars américains. Des taxes peuvent s’ajouter au paiement,
 
 ## À propos de ce dépôt
 
-CapyWatcher n’est pas open source : ce dépôt contient sa page de présentation, pas son code. Téléchargez l’application sur [capywatcher.com](https://capywatcher.com/fr/download).
+CapyWatcher n’est pas open source : ce dépôt contient sa page de présentation, pas son code.
 
 Tous droits réservés. Les [conditions d’utilisation](https://capywatcher.com/fr/terms#ip) disent ce que vous pouvez faire avec l’application.
 
-## Aide et actualités
+## Blog
 
-- E-mail : [support@capywatcher.com](mailto:support@capywatcher.com)
-- X : [@CapyWatcherApp](https://x.com/CapyWatcherApp), pour les actualités et les messages privés
-- Notes de version : [capywatcher.com/fr/release-notes](https://capywatcher.com/fr/release-notes), avec un [flux RSS](https://capywatcher.com/fr/release-notes/rss.xml)
 - Blog : [capywatcher.com/fr/blog](https://capywatcher.com/fr/blog), avec un [flux RSS](https://capywatcher.com/fr/blog/rss.xml)
 
 ## Créé par Admiral Capy

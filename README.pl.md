@@ -113,15 +113,12 @@ Ceny są w dolarach amerykańskich. Przy płatności może zostać doliczony po
 
 ## O tym repozytorium
 
-CapyWatcher ma zamknięty kod źródłowy, więc to repozytorium zawiera jego stronę produktu, a nie kod. Pobierz aplikację z [capywatcher.com](https://capywatcher.com/pl/download).
+CapyWatcher ma zamknięty kod źródłowy, więc to repozytorium zawiera jego stronę produktu, a nie kod.
 
 Wszelkie prawa zastrzeżone. Co możesz robić z aplikacją, mówią [warunki użytkowania](https://capywatcher.com/pl/terms#ip).
 
-## Pomoc i nowości
+## Blog
 
-- E-mail: [support@capywatcher.com](mailto:support@capywatcher.com)
-- X: [@CapyWatcherApp](https://x.com/CapyWatcherApp), nowości i wiadomości prywatne
-- Informacje o wersji: [capywatcher.com/pl/release-notes](https://capywatcher.com/pl/release-notes), z [kanałem RSS](https://capywatcher.com/pl/release-notes/rss.xml)
 - Blog: [capywatcher.com/pl/blog](https://capywatcher.com/pl/blog), z [kanałem RSS](https://capywatcher.com/pl/blog/rss.xml)
 
 ## Twórca: Admiral Capy

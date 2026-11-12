@@ -113,15 +113,12 @@ Windows 不會記錄檔案是哪個程式建立的，大多數工具也只看得
 
 ## 關於這個存放庫
 
-CapyWatcher 不公開原始碼，所以這個存放庫放的是它的產品介紹，不是程式碼。請到 [capywatcher.com](https://capywatcher.com/zh-tw/download) 下載應用程式。
+CapyWatcher 不公開原始碼，所以這個存放庫放的是它的產品介紹，不是程式碼。
 
 保留所有權利。您可以用這個應用程式做什麼，寫在[使用條款](https://capywatcher.com/zh-tw/terms#ip)中。
 
-## 支援和最新消息
+## 部落格
 
-- 電子郵件：[support@capywatcher.com](mailto:support@capywatcher.com)
-- X：[@CapyWatcherApp](https://x.com/CapyWatcherApp) (最新消息和私訊)
-- 版本資訊：[capywatcher.com/zh-tw/release-notes](https://capywatcher.com/zh-tw/release-notes) (也可以[用 RSS 訂閱](https://capywatcher.com/zh-tw/release-notes/rss.xml))
 - 部落格：[capywatcher.com/zh-tw/blog](https://capywatcher.com/zh-tw/blog) (也可以[用 RSS 訂閱](https://capywatcher.com/zh-tw/blog/rss.xml))
 
 ## 由 Admiral Capy 開發

@@ -113,15 +113,12 @@ Die Preise sind in US-Dollar. Je nach Wohnort kann beim Bezahlen Steuer hinzukom
 
 ## Über dieses Repository
 
-CapyWatcher ist nicht quelloffen. Dieses Repository enthält deshalb seine Produktseite, nicht seinen Code. Laden Sie die App auf [capywatcher.com](https://capywatcher.com/de/download) herunter.
+CapyWatcher ist nicht quelloffen. Dieses Repository enthält deshalb seine Produktseite, nicht seinen Code.
 
 Alle Rechte vorbehalten. Was Sie mit der App tun dürfen, steht in den [Nutzungsbedingungen](https://capywatcher.com/de/terms#ip).
 
-## Hilfe und Neuigkeiten
+## Blog
 
-- E-Mail: [support@capywatcher.com](mailto:support@capywatcher.com)
-- X: [@CapyWatcherApp](https://x.com/CapyWatcherApp), für Neuigkeiten und Direktnachrichten
-- Versionshinweise: [capywatcher.com/de/release-notes](https://capywatcher.com/de/release-notes), mit einem [RSS-Feed](https://capywatcher.com/de/release-notes/rss.xml)
 - Blog: [capywatcher.com/de/blog](https://capywatcher.com/de/blog), mit einem [RSS-Feed](https://capywatcher.com/de/blog/rss.xml)
 
 ## Gemacht von Admiral Capy

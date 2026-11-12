@@ -113,15 +113,12 @@ Os preços estão em dólares americanos. Impostos podem ser somados no pagament
 
 ## Sobre este repositório
 
-O CapyWatcher tem código fechado, então este repositório guarda a página do produto, não o código. Baixe o app em [capywatcher.com](https://capywatcher.com/pt/download).
+O CapyWatcher tem código fechado, então este repositório guarda a página do produto, não o código.
 
 Todos os direitos reservados. Os [termos de uso](https://capywatcher.com/pt/terms#ip) dizem o que você pode fazer com o app.
 
-## Ajuda e novidades
+## Blog
 
-- E-mail: [support@capywatcher.com](mailto:support@capywatcher.com)
-- X: [@CapyWatcherApp](https://x.com/CapyWatcherApp), para novidades e mensagens diretas
-- Notas da versão: [capywatcher.com/pt/release-notes](https://capywatcher.com/pt/release-notes), com um [feed RSS](https://capywatcher.com/pt/release-notes/rss.xml)
 - Blog: [capywatcher.com/pt/blog](https://capywatcher.com/pt/blog), com um [feed RSS](https://capywatcher.com/pt/blog/rss.xml)
 
 ## Feito por Admiral Capy
