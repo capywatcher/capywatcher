@@ -13,7 +13,7 @@
 
   <p>Windows 11 oder Windows 10 Version 1803 oder neuer, 64-Bit (x64). 7 Tage kostenlos, ohne Karte und ohne E-Mail.</p>
 
-  <p>Aktuelle Version: <strong>1.1.7</strong> vom 12. November 2026.</p>
+  <p>Aktuelle Version: <strong>1.1.8</strong> vom 14. November 2026.</p>
 
   <p>
     <a href="https://x.com/CapyWatcherApp"><img src="https://img.shields.io/badge/X-CapyWatcherApp-000000?style=flat-square&logo=x&logoColor=white" alt="@CapyWatcherApp auf X folgen"></a>
@@ -50,7 +50,7 @@ Ein Rechtsklick auf eine Datei oder einen Ordner zeigt jedes Programm, das sie v
 
 ### Verlauf nach Programm
 
-Beginnen Sie bei einem Programm und sehen Sie jede Datei, die es erstellt hat. Durchsuchen Sie Dateipfade, Programme und Benutzer, und filtern Sie nach Programm, übergeordnetem Prozess, Benutzer und Zeitraum, jeweils mit Anzahl. Blenden Sie einen Prozess aus, der den ganzen Tag Dateien erstellt (mit Rückgängig), und speichern Sie die gefilterten Zeilen als CSV-Datei.
+Beginnen Sie bei einem Programm und sehen Sie jede Datei, die es erstellt hat. Durchsuchen Sie Dateipfade, Programme und Benutzer, und filtern Sie nach Programm, übergeordnetem Prozess, Benutzer und Zeitraum, jeweils mit Anzahl. Blenden Sie einen Prozess aus, der den ganzen Tag Dateien erstellt (mit Rückgängig), und speichern Sie die gefilterten Zeilen als CSV-Datei. Entfernte Dateien erscheinen in blasser Schrift, und Entfernte ausblenden blendet sie aus. Markieren Sie mehrere Zeilen, um ihre Pfade zu kopieren.
 
 ![Verlauf, gefiltert auf ein Programm: jede neue Datei, die es in Ihren überwachten Ordnern erstellt hat, mit Suche und CSV-Export.](images/de/history.png)
 
@@ -99,7 +99,7 @@ Der Verlauf bleibt auf Ihrem Computer, und der Dienst, der Ihre Ordner überwach
 ## Ehrliche Grenzen
 
 - CapyWatcher zeichnet neue Dateien ab der Installation auf und kann deshalb nichts über ältere sagen.
-- Der Verlauf zeichnet Dateien auf, die in überwachten Ordnern erstellt oder umbenannt werden, keine Löschungen oder Änderungen.
+- Der Verlauf zeichnet Dateien auf, die in überwachten Ordnern erstellt oder umbenannt werden. Er zeigt, wenn eine aufgezeichnete Datei entfernt wird, aber nicht, welches Programm sie entfernt hat, und Änderungen zeichnet er nicht auf.
 - Auf einem Netzlaufwerk oder einer Freigabe zeichnet es nur auf, was Programme auf Ihrem Computer tun.
 - Es zeichnet auf, welches Programm eine Datei erstellt hat. Ein gesperrter Ordner verweigert Löschen, Verschieben und Umbenennen, aber keine neuen Dateien.
 

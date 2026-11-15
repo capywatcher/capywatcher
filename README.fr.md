@@ -13,7 +13,7 @@
 
   <p>Windows 11, ou Windows 10 version 1803 ou ultérieure, 64 bits (x64). Gratuit pendant 7 jours, sans carte ni e-mail.</p>
 
-  <p>Dernière version&nbsp;: <strong>1.1.7</strong>, sortie le 12 novembre 2026.</p>
+  <p>Dernière version&nbsp;: <strong>1.1.8</strong>, sortie le 14 novembre 2026.</p>
 
   <p>
     <a href="https://x.com/CapyWatcherApp"><img src="https://img.shields.io/badge/X-CapyWatcherApp-000000?style=flat-square&logo=x&logoColor=white" alt="Suivre @CapyWatcherApp sur X"></a>
@@ -50,7 +50,7 @@ Un clic droit sur un fichier ou un dossier montre chaque programme qui l’utili
 
 ### L’historique par programme
 
-Partez d’un programme et voyez tous les fichiers qu’il a créés. Recherchez dans les chemins, les programmes et les utilisateurs, et filtrez par programme, processus parent, utilisateur et période, avec un compteur pour chacun. Masquez un processus qui crée des fichiers toute la journée (avec Annuler), et enregistrez les lignes filtrées dans un fichier CSV.
+Partez d’un programme et voyez tous les fichiers qu’il a créés. Recherchez dans les chemins, les programmes et les utilisateurs, et filtrez par programme, processus parent, utilisateur et période, avec un compteur pour chacun. Masquez un processus qui crée des fichiers toute la journée (avec Annuler), et enregistrez les lignes filtrées dans un fichier CSV. Les fichiers supprimés apparaissent en texte atténué, et Masquer les fichiers supprimés les cache. Sélectionnez plusieurs lignes pour copier leurs chemins.
 
 ![Historique filtré sur un programme : chaque nouveau fichier qu’il a créé dans vos dossiers suivis, avec recherche et export CSV.](images/fr/history.png)
 
@@ -99,7 +99,7 @@ L’historique reste sur votre ordinateur, et le service qui surveille vos dossi
 ## Les limites, en toute franchise
 
 - Il enregistre les nouveaux fichiers à partir de son installation, il ne peut donc rien dire des fichiers plus anciens.
-- L’Historique enregistre les fichiers créés ou renommés dans les dossiers suivis, pas les suppressions ni les modifications.
+- L’Historique enregistre les fichiers créés ou renommés dans les dossiers suivis. Il indique quand un fichier enregistré est retiré, mais pas quel programme l’a retiré, et il n’enregistre pas les modifications.
 - Sur un lecteur réseau ou un partage, il n’enregistre que ce que font les programmes de votre ordinateur.
 - Il enregistre quel programme a créé un fichier. Un dossier verrouillé refuse les suppressions, les déplacements et les changements de nom, pas les nouveaux fichiers.
 

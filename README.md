@@ -13,7 +13,7 @@
 
   <p>Windows 11, or Windows 10 version 1803 or later, 64-bit (x64). Free for 7 days, with no card and no email.</p>
 
-  <p>Latest version: <strong>1.1.7</strong>, released November 12, 2026.</p>
+  <p>Latest version: <strong>1.1.8</strong>, released November 14, 2026.</p>
 
   <p>
     <a href="https://x.com/CapyWatcherApp"><img src="https://img.shields.io/badge/X-CapyWatcherApp-000000?style=flat-square&logo=x&logoColor=white" alt="Follow @CapyWatcherApp on X"></a>
@@ -50,7 +50,7 @@ Right-click a file or folder to see each program using it, with its icon, name a
 
 ### History by program
 
-Start from a program and see every file it created. Search file paths, programs and users, and filter by program, parent process, user and time range, with a count next to each one. Hide a process that creates files all day, with Undo, and save the filtered rows as a CSV file.
+Start from a program and see every file it created. Search file paths, programs and users, and filter by program, parent process, user and time range, with a count next to each one. Hide a process that creates files all day, with Undo, and save the filtered rows as a CSV file. Files that were removed show in muted text, and Hide removed hides them. Select several rows to copy their paths.
 
 ![History filtered by one program: every new file it created in your tracked folders, with search and CSV export.](images/en/history.png)
 
@@ -99,7 +99,7 @@ The history stays on your computer, and the service that watches your folders ha
 ## The honest limits
 
 - It records new files from the moment you install it, so it can't tell you about older ones.
-- History records files created or renamed in the folders you track, not deletions or edits.
+- History records files created or renamed in the folders you track. It shows when a recorded file is removed, but not which program removed it, and it doesn’t record edits.
 - On a network drive or share, it records only what programs on your computer do.
 - It records which program created a file. A locked folder refuses deletes, moves and renames, not new files.
 

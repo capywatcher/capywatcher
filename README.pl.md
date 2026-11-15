@@ -13,7 +13,7 @@
 
   <p>Windows 11 albo Windows 10 w wersji 1803 lub nowszej, 64-bitowy (x64). 7 dni za darmo, bez karty i bez e-maila.</p>
 
-  <p>Najnowsza wersja: <strong>1.1.7</strong> z&nbsp;12 listopada 2026.</p>
+  <p>Najnowsza wersja: <strong>1.1.8</strong> z&nbsp;14 listopada 2026.</p>
 
   <p>
     <a href="https://x.com/CapyWatcherApp"><img src="https://img.shields.io/badge/X-CapyWatcherApp-000000?style=flat-square&logo=x&logoColor=white" alt="Obserwuj @CapyWatcherApp na X"></a>
@@ -50,7 +50,7 @@ Kliknij prawym przyciskiem plik albo folder, żeby zobaczyć każdy program, kt�
 
 ### Historia według programu
 
-Zacznij od programu i zobacz każdy plik, który utworzył. Szukaj w ścieżkach, programach i użytkownikach oraz filtruj według programu, procesu nadrzędnego, użytkownika i przedziału czasu, z liczbą przy każdym. Ukryj proces, który tworzy pliki przez cały dzień (z Cofnij), i zapisz przefiltrowane wiersze w pliku CSV.
+Zacznij od programu i zobacz każdy plik, który utworzył. Szukaj w ścieżkach, programach i użytkownikach oraz filtruj według programu, procesu nadrzędnego, użytkownika i przedziału czasu, z liczbą przy każdym. Ukryj proces, który tworzy pliki przez cały dzień (z Cofnij), i zapisz przefiltrowane wiersze w pliku CSV. Usunięte pliki są wyświetlane wygaszonym tekstem, a Ukryj usunięte je ukrywa. Zaznacz kilka wierszy, aby skopiować ich ścieżki.
 
 ![Historia przefiltrowana według programu: każdy nowy plik, który utworzył w śledzonych folderach, z wyszukiwaniem i eksportem CSV.](images/pl/history.png)
 
@@ -99,7 +99,7 @@ Historia zostaje na Twoim komputerze, a usługa, która obserwuje foldery, nie 
 ## Uczciwe ograniczenia
 
 - Zapisuje nowe pliki od chwili instalacji, więc nic nie powie o starszych.
-- Historia zapisuje pliki utworzone lub przemianowane w śledzonych folderach, nie usunięcia ani zmiany treści.
+- Historia zapisuje pliki utworzone lub przemianowane w śledzonych folderach. Pokazuje, gdy zapisany plik zostanie usunięty, ale nie podaje, który program go usunął, i nie zapisuje zmian treści.
 - Na dysku sieciowym albo w udziale zapisuje tylko to, co robią programy z Twojego komputera.
 - Zapisuje, który program utworzył plik. Zablokowany folder nie pozwala usuwać, przenosić ani zmieniać nazw plików, ale nowe pliki mogą w nim powstawać.
 

@@ -13,7 +13,7 @@
 
   <p>Windows 11, ou Windows 10 versão 1803 ou mais recente, 64 bits (x64). Grátis por 7 dias, sem cartão e sem e-mail.</p>
 
-  <p>Versão mais recente: <strong>1.1.7</strong>, lançada em 12 de novembro de 2026.</p>
+  <p>Versão mais recente: <strong>1.1.8</strong>, lançada em 14 de novembro de 2026.</p>
 
   <p>
     <a href="https://x.com/CapyWatcherApp"><img src="https://img.shields.io/badge/X-CapyWatcherApp-000000?style=flat-square&logo=x&logoColor=white" alt="Seguir @CapyWatcherApp no X"></a>
@@ -50,7 +50,7 @@ Clique com o botão direito em um arquivo ou uma pasta para ver cada programa qu
 
 ### O histórico por programa
 
-Comece por um programa e veja cada arquivo que ele criou. Pesquise caminhos, programas e usuários, e filtre por programa, processo pai, usuário e período, com uma contagem ao lado de cada um. Oculte um processo que cria arquivos o dia todo (com Desfazer) e salve as linhas filtradas em um arquivo CSV.
+Comece por um programa e veja cada arquivo que ele criou. Pesquise caminhos, programas e usuários, e filtre por programa, processo pai, usuário e período, com uma contagem ao lado de cada um. Oculte um processo que cria arquivos o dia todo (com Desfazer) e salve as linhas filtradas em um arquivo CSV. Arquivos removidos aparecem esmaecidos, e Ocultar removidos esconde esses arquivos. Selecione várias linhas para copiar os caminhos.
 
 ![Histórico filtrado por um programa: cada arquivo novo que ele criou nas pastas monitoradas, com pesquisa e exportação CSV.](images/pt/history.png)
 
@@ -99,7 +99,7 @@ O histórico fica no seu computador, e o serviço que monitora suas pastas não 
 ## Os limites, com honestidade
 
 - Ele registra arquivos novos a partir da instalação, então não sabe nada sobre os anteriores.
-- O Histórico registra arquivos criados ou renomeados nas pastas monitoradas, não exclusões nem edições.
+- O Histórico registra arquivos criados ou renomeados nas pastas monitoradas. Ele mostra quando um arquivo registrado é removido, mas não qual programa o removeu, e não registra edições.
 - Em uma unidade de rede ou um compartilhamento, ele registra só o que os programas do seu computador fazem.
 - Ele registra qual programa criou um arquivo. Uma pasta bloqueada recusa exclusões, movimentações e mudanças de nome, não arquivos novos.
 

@@ -13,7 +13,7 @@
 
   <p>Windows 11, o Windows 10 versione 1803 o successiva, a 64 bit (x64). Gratis per 7 giorni, senza carta e senza email.</p>
 
-  <p>Ultima versione: <strong>1.1.7</strong>, uscita il 12 novembre 2026.</p>
+  <p>Ultima versione: <strong>1.1.8</strong>, uscita il 14 novembre 2026.</p>
 
   <p>
     <a href="https://x.com/CapyWatcherApp"><img src="https://img.shields.io/badge/X-CapyWatcherApp-000000?style=flat-square&logo=x&logoColor=white" alt="Segui @CapyWatcherApp su X"></a>
@@ -50,7 +50,7 @@ Fai clic destro su un file o una cartella per vedere ogni programma che lo usa, 
 
 ### La cronologia per programma
 
-Parti da un programma e vedi ogni file che ha creato. Cerca tra percorsi, programmi e utenti, e filtra per programma, processo padre, utente e intervallo di tempo, con un conteggio accanto a ciascuno. Nascondi un processo che crea file tutto il giorno (con Annulla) e salva le righe filtrate in un file CSV.
+Parti da un programma e vedi ogni file che ha creato. Cerca tra percorsi, programmi e utenti, e filtra per programma, processo padre, utente e intervallo di tempo, con un conteggio accanto a ciascuno. Nascondi un processo che crea file tutto il giorno (con Annulla) e salva le righe filtrate in un file CSV. I file rimossi appaiono in testo attenuato, e Nascondi file rimossi li nasconde. Seleziona più righe per copiarne i percorsi.
 
 ![Cronologia filtrata per un programma: ogni nuovo file che ha creato nelle cartelle monitorate, con ricerca ed esportazione CSV.](images/it/history.png)
 
@@ -99,7 +99,7 @@ La cronologia resta sul tuo computer, e il servizio che controlla le cartelle no
 ## I limiti, in tutta onestà
 
 - Registra i nuovi file dal momento in cui lo installi, quindi non può dirti nulla dei file precedenti.
-- La Cronologia registra i file creati o rinominati nelle cartelle monitorate, non le eliminazioni né le modifiche.
+- La Cronologia registra i file creati o rinominati nelle cartelle monitorate. Mostra quando un file registrato viene rimosso, ma non quale programma l’ha rimosso, e non registra le modifiche.
 - Su un’unità di rete o una condivisione, registra solo ciò che fanno i programmi del tuo computer.
 - Registra quale programma ha creato un file. Una cartella bloccata rifiuta eliminazioni, spostamenti e cambi di nome, non i nuovi file.
 

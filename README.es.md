@@ -13,7 +13,7 @@
 
   <p>Windows 11, o Windows 10 versión 1803 o posterior, de 64 bits (x64). Gratis durante 7 días, sin tarjeta y sin correo.</p>
 
-  <p>Última versión: <strong>1.1.7</strong>, del 12 de noviembre de 2026.</p>
+  <p>Última versión: <strong>1.1.8</strong>, del 14 de noviembre de 2026.</p>
 
   <p>
     <a href="https://x.com/CapyWatcherApp"><img src="https://img.shields.io/badge/X-CapyWatcherApp-000000?style=flat-square&logo=x&logoColor=white" alt="Seguir a @CapyWatcherApp en X"></a>
@@ -50,7 +50,7 @@ Haz clic derecho en un archivo o una carpeta para ver cada programa que lo usa, 
 
 ### El historial por programa
 
-Empieza por un programa y mira cada archivo que creó. Busca en rutas, programas y usuarios, y filtra por programa, proceso principal, usuario e intervalo de tiempo, con un recuento junto a cada uno. Oculta un proceso que crea archivos todo el día (con Deshacer) y guarda las filas filtradas en un archivo CSV.
+Empieza por un programa y mira cada archivo que creó. Busca en rutas, programas y usuarios, y filtra por programa, proceso principal, usuario e intervalo de tiempo, con un recuento junto a cada uno. Oculta un proceso que crea archivos todo el día (con Deshacer) y guarda las filas filtradas en un archivo CSV. Los archivos eliminados se ven atenuados, y Ocultar eliminados los oculta. Selecciona varias filas para copiar sus rutas.
 
 ![Historial filtrado por un programa: cada archivo nuevo que creó en tus carpetas supervisadas, con búsqueda y exportación a CSV.](images/es/history.png)
 
@@ -99,7 +99,7 @@ El historial se queda en tu equipo, y el servicio que supervisa tus carpetas no 
 ## Los límites, con sinceridad
 
 - Registra los archivos nuevos desde que lo instalas, así que no puede decirte nada de los anteriores.
-- El Historial registra los archivos creados o renombrados en las carpetas supervisadas, no los borrados ni las modificaciones.
+- El Historial registra los archivos creados o renombrados en las carpetas supervisadas. Muestra cuándo se elimina un archivo registrado, pero no qué programa lo eliminó, y no registra las modificaciones.
 - En una unidad de red o una carpeta compartida, solo registra lo que hacen los programas de tu equipo.
 - Registra qué programa creó un archivo. Una carpeta bloqueada no deja borrar, mover ni cambiar de nombre sus archivos, pero sí crear archivos nuevos.
 
