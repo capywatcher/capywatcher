@@ -9,7 +9,7 @@
 
   <p><strong>Right-click a new file in Windows and see which program created it, and which AI agent started that program.</strong></p>
 
-  <p><a href="https://capywatcher.com/en/download">Download the free trial</a> &nbsp;·&nbsp; <a href="https://capywatcher.com/en/pricing">See pricing</a> &nbsp;·&nbsp; <a href="https://capywatcher.com/en/release-notes">Read the release notes</a></p>
+  <p><a href="https://capywatcher.com/en/download">Download the free trial</a> &nbsp;·&nbsp; <a href="https://capywatcher.com/en/pricing">See pricing</a> &nbsp;·&nbsp; <a href="https://capywatcher.com/en/release-notes">Read the release notes</a> &nbsp;·&nbsp; <a href="https://capywatcher.com/en/docs">Read the user guide</a></p>
 
   <p>Windows 11, or Windows 10 version 1803 or later, 64-bit (x64). Free for 7 days, with no card and no email.</p>
 
