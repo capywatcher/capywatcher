@@ -9,7 +9,7 @@
 
   <p><strong>Ein Rechtsklick auf eine neue Datei in Windows zeigt, welches Programm sie erstellt hat und welcher KI-Agent dieses Programm gestartet hat.</strong></p>
 
-  <p><a href="https://capywatcher.com/de/download">Kostenlose Testversion herunterladen</a> &nbsp;·&nbsp; <a href="https://capywatcher.com/de/pricing">Preise ansehen</a> &nbsp;·&nbsp; <a href="https://capywatcher.com/de/release-notes">Versionshinweise lesen</a> &nbsp;·&nbsp; <a href="https://capywatcher.com/de/docs">Benutzerhandbuch lesen</a></p>
+  <p><a href="https://capywatcher.com/de/">Offizielle Website von CapyWatcher</a> &nbsp;·&nbsp; <a href="https://capywatcher.com/de/download">Kostenlose Testversion herunterladen</a> &nbsp;·&nbsp; <a href="https://capywatcher.com/de/pricing">Preise ansehen</a> &nbsp;·&nbsp; <a href="https://capywatcher.com/de/release-notes">Versionshinweise lesen</a> &nbsp;·&nbsp; <a href="https://capywatcher.com/de/docs">Benutzerhandbuch lesen</a></p>
 
   <p>Windows 11 oder Windows 10 Version 1803 oder neuer, 64-Bit (x64). 7 Tage kostenlos, ohne Karte und ohne E-Mail.</p>
 

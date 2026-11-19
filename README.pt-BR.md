@@ -9,7 +9,7 @@
 
   <p><strong>Clique com o botão direito em um arquivo novo no Windows e veja qual programa o criou, e qual agente de IA iniciou esse programa.</strong></p>
 
-  <p><a href="https://capywatcher.com/pt/download">Baixar a avaliação gratuita</a> &nbsp;·&nbsp; <a href="https://capywatcher.com/pt/pricing">Ver preços</a> &nbsp;·&nbsp; <a href="https://capywatcher.com/pt/release-notes">Ler as notas da versão</a> &nbsp;·&nbsp; <a href="https://capywatcher.com/en/docs">Ler o guia do usuário (em inglês)</a></p>
+  <p><a href="https://capywatcher.com/pt/">Site oficial do CapyWatcher</a> &nbsp;·&nbsp; <a href="https://capywatcher.com/pt/download">Baixar a avaliação gratuita</a> &nbsp;·&nbsp; <a href="https://capywatcher.com/pt/pricing">Ver preços</a> &nbsp;·&nbsp; <a href="https://capywatcher.com/pt/release-notes">Ler as notas da versão</a> &nbsp;·&nbsp; <a href="https://capywatcher.com/en/docs">Ler o guia do usuário (em inglês)</a></p>
 
   <p>Windows 11, ou Windows 10 versão 1803 ou mais recente, 64 bits (x64). Grátis por 7 dias, sem cartão e sem e-mail.</p>
 

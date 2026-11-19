@@ -9,7 +9,7 @@
 
   <p><strong>Faites un clic droit sur un nouveau fichier dans Windows et voyez quel programme l’a créé, et quel agent IA a lancé ce programme.</strong></p>
 
-  <p><a href="https://capywatcher.com/fr/download">Télécharger l’essai gratuit</a> &nbsp;·&nbsp; <a href="https://capywatcher.com/fr/pricing">Voir les tarifs</a> &nbsp;·&nbsp; <a href="https://capywatcher.com/fr/release-notes">Lire les notes de version</a> &nbsp;·&nbsp; <a href="https://capywatcher.com/en/docs">Lire le guide d’utilisation (en anglais)</a></p>
+  <p><a href="https://capywatcher.com/fr/">Site officiel de CapyWatcher</a> &nbsp;·&nbsp; <a href="https://capywatcher.com/fr/download">Télécharger l’essai gratuit</a> &nbsp;·&nbsp; <a href="https://capywatcher.com/fr/pricing">Voir les tarifs</a> &nbsp;·&nbsp; <a href="https://capywatcher.com/fr/release-notes">Lire les notes de version</a> &nbsp;·&nbsp; <a href="https://capywatcher.com/en/docs">Lire le guide d’utilisation (en anglais)</a></p>
 
   <p>Windows 11, ou Windows 10 version 1803 ou ultérieure, 64 bits (x64). Gratuit pendant 7 jours, sans carte ni e-mail.</p>
 

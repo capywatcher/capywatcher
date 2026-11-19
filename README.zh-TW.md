@@ -9,7 +9,7 @@
 
   <p><strong>在 Windows 中對新檔案按滑鼠右鍵，就能看到是哪個程式建立了它，以及是哪個 AI 代理啟動了那個程式。</strong></p>
 
-  <p><a href="https://capywatcher.com/zh-tw/download">下載免費試用版</a> &nbsp;·&nbsp; <a href="https://capywatcher.com/zh-tw/pricing">查看價格</a> &nbsp;·&nbsp; <a href="https://capywatcher.com/zh-tw/release-notes">閱讀版本資訊</a> &nbsp;·&nbsp; <a href="https://capywatcher.com/en/docs">閱讀使用指南 (英文)</a></p>
+  <p><a href="https://capywatcher.com/zh-tw/">CapyWatcher 官方網站</a> &nbsp;·&nbsp; <a href="https://capywatcher.com/zh-tw/download">下載免費試用版</a> &nbsp;·&nbsp; <a href="https://capywatcher.com/zh-tw/pricing">查看價格</a> &nbsp;·&nbsp; <a href="https://capywatcher.com/zh-tw/release-notes">閱讀版本資訊</a> &nbsp;·&nbsp; <a href="https://capywatcher.com/en/docs">閱讀使用指南 (英文)</a></p>
 
   <p>Windows 11，或 Windows 10 版本 1803 以上，64 位元 (x64)。可免費試用 7 天，不需信用卡，也不需電子郵件。</p>
 

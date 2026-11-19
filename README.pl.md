@@ -9,7 +9,7 @@
 
   <p><strong>Kliknij nowy plik w Windows prawym przyciskiem i zobacz, który program go utworzył i jaki agent AI ten program uruchomił.</strong></p>
 
-  <p><a href="https://capywatcher.com/pl/download">Pobierz wersję próbną</a> &nbsp;·&nbsp; <a href="https://capywatcher.com/pl/pricing">Zobacz cennik</a> &nbsp;·&nbsp; <a href="https://capywatcher.com/pl/release-notes">Przeczytaj informacje o wersji</a> &nbsp;·&nbsp; <a href="https://capywatcher.com/en/docs">Przeczytaj instrukcję obsługi (po angielsku)</a></p>
+  <p><a href="https://capywatcher.com/pl/">Oficjalna strona CapyWatcher</a> &nbsp;·&nbsp; <a href="https://capywatcher.com/pl/download">Pobierz wersję próbną</a> &nbsp;·&nbsp; <a href="https://capywatcher.com/pl/pricing">Zobacz cennik</a> &nbsp;·&nbsp; <a href="https://capywatcher.com/pl/release-notes">Przeczytaj informacje o wersji</a> &nbsp;·&nbsp; <a href="https://capywatcher.com/en/docs">Przeczytaj instrukcję obsługi (po angielsku)</a></p>
 
   <p>Windows 11 albo Windows 10 w wersji 1803 lub nowszej, 64-bitowy (x64). 7 dni za darmo, bez karty i bez e-maila.</p>
 
