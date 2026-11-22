@@ -13,7 +13,7 @@
 
   <p>Windows 11, o Windows 10 versión 1803 o posterior, de 64 bits (x64). Gratis durante 7 días, sin tarjeta y sin correo.</p>
 
-  <p>Última versión: <strong>1.1.8</strong>, del 14 de noviembre de 2026.</p>
+  <p>Última versión: <strong>1.1.9</strong>, del 22 de noviembre de 2026.</p>
 
   <p>
     <a href="https://x.com/CapyWatcherApp"><img src="https://img.shields.io/badge/X-CapyWatcherApp-000000?style=flat-square&logo=x&logoColor=white" alt="Seguir a @CapyWatcherApp en X"></a>
