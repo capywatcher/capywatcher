@@ -9,7 +9,7 @@
 
   <p><strong>Windows で新しいファイルを右クリックすると、作成したプログラムと、そのプログラムを起動した AI エージェントがわかります。</strong></p>
 
-  <p><a href="https://capywatcher.com/ja/">CapyWatcher 公式サイト</a> &nbsp;·&nbsp; <a href="https://capywatcher.com/ja/download">無料試用版をダウンロード</a> &nbsp;·&nbsp; <a href="https://capywatcher.com/ja/pricing">価格を見る</a> &nbsp;·&nbsp; <a href="https://capywatcher.com/ja/release-notes">リリース ノートを読む</a> &nbsp;·&nbsp; <a href="https://capywatcher.com/en/docs">ユーザー ガイドを読む (英語)</a></p>
+  <p><a href="https://capywatcher.com/ja/">CapyWatcher 公式サイト</a> &nbsp;·&nbsp; <a href="https://capywatcher.com/ja/download">無料試用版をダウンロード</a> &nbsp;·&nbsp; <a href="https://capywatcher.com/ja/pricing">価格を見る</a> &nbsp;·&nbsp; <a href="https://capywatcher.com/ja/release-notes">リリース ノートを読む</a> &nbsp;·&nbsp; <a href="https://capywatcher.com/ja/docs">使い方ガイドを読む</a></p>
 
   <p>Windows 11、または Windows 10 バージョン 1803 以降の 64 ビット版 (x64)。7 日間無料で、カードもメール アドレスも不要です。</p>
 
